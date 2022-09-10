@@ -1,0 +1,5178 @@
+{
+  "meta": {
+    "home_page": {
+      "title": {
+        "en": "Cruz Del Sur | The pleasure of traveling by bus",
+        "es": "Cruz Del Sur | El placer de viajar en bus",
+        "qu": "Cruz Del Sur | El placer de viajar en bus",
+        "pt": "Cruz Del Sur | El placer de viajar en bus",
+        "fr": "Cruz Del Sur | Le plaisir de voyager en bus",
+        "nl": "Cruz Del Sur | Het plezier van reizen met de bus"
+      },
+      "description": {
+        "en": "Take advantage of the incredible prices and book your next bus trip with Cruz del Sur! More than 45 destinations to discover in the most comfortable and safe way",
+        "es": "¡Aprovecha los increíbles precios y reserva tu próximo viaje con bus con Cruz del Sur! Más de 45 destinos para descubrir de la manera más cómoda y segura",
+        "qu": "¡Aprovecha los increíbles precios y reserva tu próximo viaje con bus con Cruz del Sur! Más de 45 destinos para descubrir de la manera más cómoda y segura",
+        "pt": "¡Aprovecha los increíbles precios y reserva tu próximo viaje con bus con Cruz del Sur! Más de 45 destinos para descubrir de la manera más cómoda y segura",
+        "fr": "Profitez des prix incroyables et réservez votre prochain voyage en bus avec Cruz del Sur ! Plus de 45 destinations à découvrir de la manière la plus confortable et la plus sûre",
+        "nl": "Profiteer van de ongelooflijke prijzen en boek je volgende busreis met Cruz del Sur! Meer dan 45 bestemmingen om op de meest comfortabele en veilige manier te ontdekken"
+      },
+      "keywords": {
+        "en": "cruz del sur, bus, tickets, travels, lima, ica, huancayo, huaraz, paracas, trujillo, arequipa, cusco, chiclayo, chimbote",
+        "es": "cruz del sur, bus, pasajes, viajes, lima, ica, huancayo, huaraz, paracas, trujillo, arequipa, cusco, chiclayo, chimbote",
+        "qu": "cruz del sur, bus, pasajes, viajes, lima, ica, huancayo, huaraz, paracas, trujillo, arequipa, cusco, chiclayo, chimbote",
+        "pt": "cruz del sur, bus, pasajes, viajes, lima, ica, huancayo, huaraz, paracas, trujillo, arequipa, cusco, chiclayo, chimbote",
+        "fr": "cruz del sur, bus, des billets, voyages, lima, ica, huancayo, huaraz, paracas, trujillo, arequipa, cusco, chiclayo, chimbote",
+        "nl": "cruz del sur, bus, kaartjes, reizen, lima, ica, huancayo, huaraz, paracas, trujillo, arequipa, cusco, chiclayo, chimbote"
+      }
+    },
+    "seo_route_page": {
+      "title": {
+        "en": "<<0>> to <<1>> by bus: Book your ticket - Cruz del Sur",
+        "es": "<<0>> a <<1>> en bus: Reserva tu pasaje - Cruz del Sur",
+        "qu": "<<0>> a <<1>> en bus: Reserva tu pasaje - Cruz del Sur",
+        "pt": "<<0>> a <<1>> en bus: Reserva tu pasaje - Cruz del Sur",
+        "fr": "<<0>> à <<1>> en bus : Réservez votre billet - Cruz del Sur",
+        "nl": "<<0>> naar <<1>> met de bus: Boek je ticket - Cruz del Sur"
+      },
+      "description": {
+        "en": "Find the best options to go from <<0>> to <<1>> by bus at an incredible price and safely and comfortably. Book your ticket to <<1>> with Cruz del Sur to travel in the best way!",
+        "es": "Encuentra las mejores opciones para ir de <<0>> a <<1>> en bus a un precio increible y de forma segura y comoda. Reserva tu pasaje a <<1>> con Cruz del Sur para viajar de la mejor manera!",
+        "qu": "Encuentra las mejores opciones para ir de <<0>> a <<1>> en bus a un precio increible y de forma segura y comoda. Reserva tu pasaje a <<1>> con Cruz del Sur para viajar de la mejor manera!",
+        "pt": "Encuentra las mejores opciones para ir de <<0>> a <<1>> en bus a un precio increible y de forma segura y comoda. Reserva tu pasaje a <<1>> con Cruz del Sur para viajar de la mejor manera!",
+        "fr": "Trouvez les meilleures options pour voyager de <<0>> à <<1>> en bus à un prix incroyable et confortablement et en toute sécurité. Réservez votre billet pour <<1>> avec Cruz del Sur pour voyager de la meilleure façon !",
+        "nl": "Vind de beste opties om met de bus van <<0>> naar <<1>> te gaan tegen een ongelooflijke prijs en veilig en comfortabel. Boek uw ticket naar <<1>> met Cruz del Sur om op de beste manier te reizen!"
+      },
+      "keywords": {
+        "en": "bus, tickets, travels, <<0>>, <<1>>",
+        "es": "bus, pasajes, viajes, <<0>>, <<1>>",
+        "qu": "bus, pasajes, viajes, <<0>>, <<1>>",
+        "pt": "bus, pasajes, viajes, <<0>>, <<1>>",
+        "fr": "bus, des billets, voyages, <<0>>, <<1>>",
+        "nl": "bus, kaartjes, reizen, <<0>>, <<1>>"
+      }
+    }
+  },
+  "search_bar": {
+    "search": {
+      "en": "Search",
+      "es": "Buscar",
+      "qu": "Buscar",
+      "pt": "Buscar",
+      "fr": "Chercher",
+      "nl": "Zoeken"
+    },
+    "from": {
+      "en": "From",
+      "es": "Origen",
+      "qu": "Origen",
+      "pt": "Origen",
+      "fr": "De",
+      "nl": "Van"
+    },
+    "to": {
+      "en": "To",
+      "es": "Destino",
+      "qu": "Destino",
+      "pt": "Destino",
+      "fr": "À",
+      "nl": "Naar"
+    },
+    "departure": {
+      "en": "Departure",
+      "es": "Salida",
+      "qu": "Salida",
+      "pt": "Salida",
+      "fr": "Départ",
+      "nl": "Vertrek"
+    },
+    "return": {
+      "en": "Return",
+      "es": "Retorno",
+      "qu": "Retorno",
+      "pt": "Retorno",
+      "fr": "Retour",
+      "nl": "Terug"
+    },
+    "leaving_from": {
+      "en": "Leaving from",
+      "es": "Saliendo desde",
+      "qu": "Saliendo desde",
+      "pt": "Saliendo desde",
+      "fr": "Au départ de",
+      "nl": "Vertrekken van"
+    },
+    "going_to": {
+      "en": "Going to",
+      "es": "Hacia",
+      "qu": "Hacia",
+      "pt": "Hacia",
+      "fr": "Aller à",
+      "nl": "Gaan naar"
+    },
+    "departure_date": {
+      "en": "Departure date",
+      "es": "Fecha de salida",
+      "qu": "Fecha de salida",
+      "pt": "Fecha de salida",
+      "fr": "Date de départ",
+      "nl": "Vertrekdatum"
+    },
+    "return_date": {
+      "en": "Return date",
+      "es": "Fecha de retorno",
+      "qu": "Fecha de retorno",
+      "pt": "Fecha de retorno",
+      "fr": "Date de retour",
+      "nl": "Retourdatum"
+    },
+    "some_popular_cities": {
+      "en": "Some popular cities",
+      "es": "Algunas ciudades populares",
+      "qu": "Algunas ciudades populares",
+      "pt": "Algunas ciudades populares",
+      "fr": "Quelques villes populaires",
+      "nl": "Enkele populaire steden"
+    },
+    "select_a_outbound_destination": {
+      "en": "Select a outbound destination",
+      "es": "Selecciona una ciudad de origen",
+      "qu": "Selecciona una ciudad de origen",
+      "pt": "Selecciona una ciudad de origen",
+      "fr": "Sélectionnez une destination sortante",
+      "nl": "Selecteer een uitgaande bestemming"
+    },
+    "no_destinations": {
+      "en": "No destinations",
+      "es": "Sin destinos",
+      "qu": "Sin destinos",
+      "pt": "Sin destinos",
+      "fr": "Pas de destination",
+      "nl": "Geen bestemmingen"
+    },
+    "enter_origin": {
+      "en": "Enter origin",
+      "es": "Ingrese origen",
+      "qu": "Ingrese origen",
+      "pt": "Ingrese origen",
+      "fr": "Entrer le départ",
+      "nl": "Voer het begin in"
+    },
+    "enter_destination": {
+      "en": "Enter destination",
+      "es": "Ingrese destino",
+      "qu": "Ingrese destino",
+      "pt": "Ingrese destino",
+      "fr": "Entrer la destination",
+      "nl": "Voer bestemming in"
+    }
+  },
+  "trip_rate": {
+    "trip_fare_summary": {
+      "en": "Trip fare summary",
+      "es": "Detalle de tarifa de viaje",
+      "qu": "Detalle de tarifa de viaje",
+      "pt": "Detalle de tarifa de viaje",
+      "fr": "Prix du voyage",
+      "nl": "Reistariefdetails"
+    },
+    "your_selected_seats": {
+      "en": "Your selected seats",
+      "es": "Tus asientos",
+      "qu": "Tus asientos",
+      "pt": "Tus asientos",
+      "fr": "Vos sièges",
+      "nl": "Uw zetels"
+    },
+    "taxes_and_fees": {
+      "en": "Taxes & fees included",
+      "es": "Tasas e impuestos incluidos",
+      "qu": "Tasas e impuestos incluidos",
+      "pt": "Tasas e impuestos incluidos",
+      "fr": "Taxes et frais inclus",
+      "nl": "Belastingen en toeslagen inbegrepen"
+    },
+    "no_selected_seats": {
+      "en": "No selected seats",
+      "es": "No hay asientos seleccionados",
+      "qu": "No hay asientos seleccionados",
+      "pt": "No hay asientos seleccionados",
+      "fr": "Aucun siège sélectionné",
+      "nl": "Geen geselecteerde zetel"
+    },
+    "total": {
+      "en": "Total:",
+      "es": "Total:",
+      "qu": "Total:",
+      "pt": "Total:",
+      "fr": "Total:",
+      "nl": "Totaal:"
+    }
+  },
+  "trip_selection": {
+    "your_trip_selection": {
+      "en": "Your trip selection",
+      "es": "Su selección de viaje",
+      "qu": "Su selección de viaje",
+      "pt": "Su selección de viaje",
+      "fr": "Votre voyage",
+      "nl": "Uw reis"
+    },
+    "stops": {
+      "en": "Stops",
+      "es": "Escalas",
+      "qu": "Escalas",
+      "pt": "Escalas",
+      "fr": "Escales",
+      "nl": "Stops"
+    },
+    "outbound": {
+      "en": "Outbound",
+      "es": "Saliente",
+      "qu": "Saliente",
+      "pt": "Saliente",
+      "fr": "Aller",
+      "nl": "Uitgaand"
+    },
+    "return": {
+      "en": "Return",
+      "es": "Retorno",
+      "qu": "Retorno",
+      "pt": "Retorno",
+      "fr": "Retour",
+      "nl": "Terugkeren"
+    },
+    "round_trip": {
+      "en": "Round trip",
+      "es": "Ida y vuelta",
+      "qu": "Ida y vuelta",
+      "pt": "Ida y vuelta",
+      "fr": "Aller-retour",
+      "nl": "Rondreis"
+    },
+    "going": {
+      "en": "Going",
+      "es": "Ida",
+      "qu": "Ida",
+      "pt": "Ida",
+      "fr": "Aller",
+      "nl": "Uitgaand"
+    }
+  },
+  "home": {
+    "title": {
+      "en": "Travel safe!",
+      "es": "A viajar seguro!",
+      "qu": "A viajar seguro!",
+      "pt": "A viajar seguro!",
+      "fr": "Voyager en toute sécurité!!",
+      "nl": "Veilig reizen!"
+    },
+    "description": {
+      "en": "Concerned about our passengers and collaborators in giving them confidence and guaranteeing that we are complying with the highest quality standards in road and health safety.",
+      "es": "Preocupados por nuestros pasajeros y colaboradores en brindarles la confianza y garantizarles que estamos cumpliendo con los más altos estándares de calidad en seguridad vial y sanitaria.",
+      "qu": "Preocupados por nuestros pasajeros y colaboradores en brindarles la confianza y garantizarles que estamos cumpliendo con los más altos estándares de calidad en seguridad vial y sanitaria.",
+      "pt": "Preocupados por nuestros pasajeros y colaboradores en brindarles la confianza y garantizarles que estamos cumpliendo con los más altos estándares de calidad en seguridad vial y sanitaria.",
+      "fr": "Soucieux de nos passagers et collaborateurs en leur donnant confiance et en leur garantissant que nous respectons les plus hauts standards de qualité en matière de sécurité routière et sanitaire.",
+      "nl": "Concerned about our passengers and collaborators in giving them confidence and guaranteeing that we are complying with the highest quality standards in road and health safety."
+    },
+    "lets_travel": {
+      "en": "Let's travel",
+      "es": "Viajemos",
+      "qu": "Viajemos",
+      "pt": "Viajemos",
+      "fr": "Voyageons",
+      "nl": "Laten we reizen"
+    },
+    "help": {
+      "en": "Help",
+      "es": "Ayuda",
+      "qu": "Ayuda",
+      "pt": "Ayuda",
+      "fr": "Aide",
+      "nl": "Helpen"
+    },
+    "language": {
+      "en": "Language",
+      "es": "Idioma",
+      "qu": "Idioma",
+      "pt": "Idioma",
+      "fr": "langage",
+      "nl": "Idioom"
+    },
+    "sign_in": {
+      "en": "Sign in",
+      "es": "Iniciar sesión",
+      "qu": "Iniciar sesión",
+      "pt": "Iniciar sesión",
+      "fr": "Inicier la session",
+      "nl": "Inloggen"
+    },
+    "my_account": {
+      "en": "My account",
+      "es": "Mi cuenta",
+      "qu": "Mi cuenta",
+      "pt": "Mi cuenta",
+      "fr": "Mon compte",
+      "nl": "Mijn account"
+    },
+    "profile": {
+      "en": "Profile",
+      "es": "Perfil",
+      "qu": "Perfil",
+      "pt": "Perfil",
+      "fr": "Profil",
+      "nl": "Profiel"
+    },
+    "bookings": {
+      "en": "Bookings",
+      "es": "Reservaciones",
+      "qu": "Reservaciones",
+      "pt": "Reservaciones",
+      "fr": "Réservations",
+      "nl": "Boekingen"
+    },
+    "terms_of_use": {
+      "en": "Terms of use",
+      "es": "Términos de uso",
+      "qu": "Términos de uso",
+      "pt": "Términos de uso",
+      "fr": "Conditions d'utilisation",
+      "nl": "Gebruiksvoorwaarden"
+    },
+    "data_protection": {
+      "en": "Data protection",
+      "es": "Protección de datos",
+      "qu": "Protección de datos",
+      "pt": "Protección de datos",
+      "fr": "Protection de données",
+      "nl": "Gegevensbescherming"
+    },
+    "destinations": {
+      "en": "Destinations",
+      "es": "Destinos",
+      "qu": "Destinos",
+      "pt": "Destinos",
+      "fr": "Destinations",
+      "nl": "Bestemmingen"
+    },
+    "where_to_go": {
+      "en": "Where do you want to go?",
+      "es": "¿A dónde quieres ir?",
+      "qu": "¿A dónde quieres ir?",
+      "pt": "¿A dónde quieres ir?",
+      "fr": "Où veux-tu aller?",
+      "nl": "Waar wil je heen?"
+    },
+    "services": {
+      "en": "Services",
+      "es": "Servicios",
+      "qu": "Servicios",
+      "pt": "Servicios",
+      "fr": "Services",
+      "nl": "Diensten"
+    },
+    "confort_suite": {
+      "en": "Confort Suite",
+      "es": "Confort Suite",
+      "qu": "Confort Suite",
+      "pt": "Confort Suite",
+      "fr": "Confort Suite",
+      "nl": "Confort Suite"
+    },
+    "cruzero_suite": {
+      "en": "Cruzero Suite",
+      "es": "Cruzero Suite",
+      "qu": "Cruzero Suite",
+      "pt": "Cruzero Suite",
+      "fr": "Cruzero Suite",
+      "nl": "Cruzero Suite"
+    },
+    "cruzero_evolution": {
+      "en": "Cruzero Evolution",
+      "es": "Cruzero Evolution",
+      "qu": "Cruzero Evolution",
+      "pt": "Cruzero Evolution",
+      "fr": "Cruzero Evolution",
+      "nl": "Cruzero Evolution"
+    },
+    "cruzero_plus": {
+      "en": "Cruzero Plus",
+      "es": "Cruzero Plus",
+      "qu": "Cruzero Plus",
+      "pt": "Cruzero Plus",
+      "fr": "Cruzero Plus",
+      "nl": "Cruzero Plus"
+    },
+    "ica_line_express": {
+      "en": "Ica Line Express",
+      "es": "Ica Line Express",
+      "qu": "Ica Line Express",
+      "pt": "Ica Line Express",
+      "fr": "Ica Line Express",
+      "nl": "Ica Line Express"
+    },
+    "international": {
+      "en": "International",
+      "es": "Internacional",
+      "qu": "Internacional",
+      "pt": "Internacional",
+      "fr": "Internationale",
+      "nl": "Internationaal"
+    },
+    "eco_line": {
+      "en": "Eco Line",
+      "es": "Eco Line",
+      "qu": "Eco Line",
+      "pt": "Eco Line",
+      "fr": "Eco Line",
+      "nl": "Eco Line"
+    },
+    "frequent_passenger": {
+      "en": "Frequent passenger",
+      "es": "Pasajero frecuente",
+      "qu": "Pasajero frecuente",
+      "pt": "Pasajero frecuente",
+      "fr": "Passager régulier",
+      "nl": "Regelmatige passagier"
+    },
+    "benefits": {
+      "en": "Benefits",
+      "es": "Beneficios",
+      "qu": "Beneficios",
+      "pt": "Beneficios",
+      "fr": "Bénéfices",
+      "nl": "Winsten"
+    },
+    "about_the_program": {
+      "en": "About the program",
+      "es": "Acerca del programa",
+      "qu": "Acerca del programa",
+      "pt": "Acerca del programa",
+      "fr": "À propos du programme",
+      "nl": "Over het programma"
+    },
+    "find_us": {
+      "en": "Find Us",
+      "es": "Encuéntranos",
+      "qu": "Encuéntranos",
+      "pt": "Encuéntranos",
+      "fr": "Trouve nous",
+      "nl": "Vind ons"
+    },
+    "agencies": {
+      "en": "Agencies",
+      "es": "Agencias",
+      "qu": "Agencias",
+      "pt": "Agencias",
+      "fr": "Agences",
+      "nl": "Agentschappen"
+    },
+    "fonobus": {
+      "en": "Fonobus",
+      "es": "Fonobus",
+      "qu": "Fonobus",
+      "pt": "Fonobus",
+      "fr": "Fonobus",
+      "nl": "Fonobus"
+    },
+    "contact_us": {
+      "en": "Contact us",
+      "es": "Contáctanos",
+      "qu": "Contáctanos",
+      "pt": "Contáctanos",
+      "fr": "Nous contacter",
+      "nl": "Kontakt ons"
+    },
+    "about_us": {
+      "en": "About Us",
+      "es": "Sobre nosotros",
+      "qu": "Sobre nosotros",
+      "pt": "Sobre nosotros",
+      "fr": "À propos de nous",
+      "nl": "Over ons"
+    },
+    "the_company": {
+      "en": "The company",
+      "es": "La empresa",
+      "qu": "La empresa",
+      "pt": "La empresa",
+      "fr": "L'entreprise",
+      "nl": "Het bedrijf"
+    },
+    "why_choose_us": {
+      "en": "Why choose us?",
+      "es": "¿Por qué escogernos?",
+      "qu": "¿Por qué escogernos?",
+      "pt": "¿Por qué escogernos?",
+      "fr": "Pourquoi nous choisir?",
+      "nl": "Waarom voor ons kiezen?"
+    },
+    "peruvian_company_title": {
+      "en": "Company",
+      "es": "Empresa",
+      "qu": "Empresa",
+      "pt": "Empresa",
+      "fr": "Entreprise",
+      "nl": "Bedrijf"
+    },
+    "peruvian_company_subtitle": {
+      "en": "100% Peruvian",
+      "es": "100% Peruana",
+      "qu": "100% Peruana",
+      "pt": "100% Peruana",
+      "fr": "100% Péruvien",
+      "nl": "100% Peruviaans"
+    },
+    "years_of_experience_title": {
+      "en": "61 Years",
+      "es": "61 Años",
+      "qu": "61 Años",
+      "pt": "61 Años",
+      "fr": "61 Ans",
+      "nl": "61 Jaren"
+    },
+    "years_of_experience_subtitle": {
+      "en": "of experience",
+      "es": "de experiencia",
+      "qu": "de experiencia",
+      "pt": "de experiencia",
+      "fr": "d'expérience",
+      "nl": "van ervaring"
+    },
+    "national_destinations_title": {
+      "en": "45 Domestic",
+      "es": "45 Destinos",
+      "qu": "45 Destinos",
+      "pt": "45 Destinos",
+      "fr": "45 Destinations",
+      "nl": "45 Binnenlandse"
+    },
+    "national_destinations_subtitle": {
+      "en": "Destinations",
+      "es": "Nacionales",
+      "qu": "Nacionales",
+      "pt": "Nacionales",
+      "fr": "Nacionales",
+      "nl": "Bestemmingen"
+    },
+    "international_destinations_title": {
+      "en": "5 International",
+      "es": "5 Destinos",
+      "qu": "5 Destinos",
+      "pt": "5 Destinos",
+      "fr": "5 Destinations",
+      "nl": "5 Internationale"
+    },
+    "international_destinations_subtitle": {
+      "en": "Destinations",
+      "es": "Internacionales",
+      "qu": "Internacionales",
+      "pt": "Internacionales",
+      "fr": "Internationale",
+      "nl": "Bestemmingen"
+    },
+    "millions_customers_title": {
+      "en": "+2 Million",
+      "es": "+2 Millones",
+      "qu": "2 Millones",
+      "pt": "2 Millones",
+      "fr": "2 Millions",
+      "nl": "2 Miljoenen"
+    },
+    "millions_customers_subtitle": {
+      "en": "customers",
+      "es": "de clientes",
+      "qu": "de clientes",
+      "pt": "de clientes",
+      "fr": "de clients",
+      "nl": "klanten"
+    },
+    "virus_free_fleet_title": {
+      "en": "Fleet",
+      "es": "Flota",
+      "qu": "Flota",
+      "pt": "Flota",
+      "fr": "Flotte",
+      "nl": "Vloot"
+    },
+    "virus_free_fleet_subtitle": {
+      "en": "virus free",
+      "es": "libre de virus",
+      "qu": "libre de virus",
+      "pt": "libre de virus",
+      "fr": "sans virus",
+      "nl": "virusvrij"
+    },
+    "social_proofs_legend": {
+      "en": "Eco 3 in Fleet Confort Suite and Ica Express / Uv in Fleet Cruzero Evolution",
+      "es": "Eco 3 en Flota Confort Suite e Ica Express / Uv en Flota Cruzero Evolution",
+      "qu": "Eco 3 en Flota Confort Suite e Ica Express / Uv en Flota Cruzero Evolution",
+      "pt": "Eco 3 en Flota Confort Suite e Ica Express / Uv en Flota Cruzero Evolution",
+      "fr": "Eco 3 en Fleet Comfort Suite et Ica Express / Uv en Fleet Cruzero Evolution",
+      "nl": "Eco 3 in Fleet Comfort Suite en Ica Express / Uv in Fleet Cruzero Evolution"
+    },
+    "travel_offer": {
+      "en": "Travel deals",
+      "es": "Ofertas de viajes",
+      "qu": "Ofertas de viajes",
+      "pt": "Ofertas de viajes",
+      "fr": "Offres de voyage",
+      "nl": "Reisaanbiedingen"
+    },
+    "south": {
+      "en": "South",
+      "es": "Sur",
+      "qu": "Sur",
+      "pt": "Sur",
+      "fr": "Sud",
+      "nl": "Zuiden"
+    },
+    "center": {
+      "en": "Center",
+      "es": "Centro",
+      "qu": "Centro",
+      "pt": "Centro",
+      "fr": "Centre",
+      "nl": "Centrum"
+    },
+    "north": {
+      "en": "North",
+      "es": "Norte",
+      "qu": "Norte",
+      "pt": "Norte",
+      "fr": "Nord",
+      "nl": "Noorden"
+    },
+    "to": {
+      "en": "to",
+      "es": "a",
+      "qu": "a",
+      "pt": "a",
+      "fr": "à",
+      "nl": "naar"
+    },
+    "from": {
+      "en": "From",
+      "es": "Desde",
+      "qu": "Desde",
+      "pt": "Desde",
+      "fr": "De",
+      "nl": "Van"
+    },
+    "cds_sub_title": {
+      "en": "The pleasure of traveling by bus",
+      "es": "El placer de viajar en bus",
+      "qu": "El placer de viajar en bus",
+      "pt": "El placer de viajar en bus",
+      "fr": "Le plaisir de voyager en bus",
+      "nl": "Het plezier van reizen met de bus"
+    },
+    "title_form": {
+      "en": "Find your next trip",
+      "es": "Busca tu próximo viaje",
+      "qu": "Busca tu próximo viaje",
+      "pt": "Busca tu próximo viaje",
+      "fr": "Trouvez votre prochain voyage",
+      "nl": "Vind uw volgende reis"
+    },
+    "our_fleet_title": {
+      "en": "Our fleet",
+      "es": "Nuestra flota",
+      "qu": "Nuestra flota",
+      "pt": "Nuestra flota",
+      "fr": "Notre flotte",
+      "nl": "Onze vloot"
+    },
+    "our_fleet_description": {
+      "en": "We have the most modern bus fleet in Peru to guarantee a comfortable and quiet trip.",
+      "es": "Contamos con la flota de bus más moderna en Perú para garantizar un viaje cómodo y tranquilo.",
+      "qu": "Contamos con la flota de bus más moderna en Perú para garantizar un viaje cómodo y tranquilo.",
+      "pt": "Contamos con la flota de bus más moderna en Perú para garantizar un viaje cómodo y tranquilo.",
+      "fr": "Nous avons la flotte de bus la plus moderne du Pérou pour garantir un voyage confortable et tranquille.",
+      "nl": "We hebben de modernste busvloot in Peru om een \u200B\u200Bcomfortabele en rustige reis te garanderen."
+    },
+    "corporate_trip_title": {
+      "en": "Corporate trip",
+      "es": "Viaje corporativo",
+      "qu": "Viaje corporativo",
+      "pt": "Viaje corporativo",
+      "fr": "Voyage d'affaires",
+      "nl": "Zakenreis"
+    },
+    "corporate_trip_description": {
+      "en": "Quote our corporate service and guarantee a safe trip to your company.",
+      "es": "Cotiza nuestro servicio corporativo y garantiza un viaje seguro a tu empresa.",
+      "qu": "Cotiza nuestro servicio corporativo y garantiza un viaje seguro a tu empresa.",
+      "pt": "Cotiza nuestro servicio corporativo y garantiza un viaje seguro a tu empresa.",
+      "fr": "Citez notre service aux entreprises et garantissez un voyage en toute sécurité vers votre entreprise.",
+      "nl": "Offerte onze zakelijke service en garandeer een veilige reis naar uw bedrijf."
+    },
+    "biosafety_protocols_title": {
+      "en": "Biosafety protocols",
+      "es": "Protocolos de bioseguridad",
+      "qu": "Protocolos de bioseguridad",
+      "pt": "Protocolos de bioseguridad",
+      "fr": "Protocoles de biosécurité",
+      "nl": "Bioveiligheidsprotocollen"
+    },
+    "biosafety_protocols_description": {
+      "en": "We comply with the highest quality standards in road and health safety.",
+      "es": "Cumplimos con los más altos estándares de calidad en seguridad vial y sanitaria.",
+      "qu": "Cumplimos con los más altos estándares de calidad en seguridad vial y sanitaria.",
+      "pt": "Cumplimos con los más altos estándares de calidad en seguridad vial y sanitaria.",
+      "fr": "Nous respectons les normes de qualité les plus élevées en matière de sécurité routière et sanitaire.",
+      "nl": "We voldoen aan de hoogste kwaliteitsnormen op het gebied van verkeers- en gezondheidsveiligheid."
+    },
+    "live_thrill_traveling_title": {
+      "en": "Live the thrill of traveling",
+      "es": "Vive la emoción de viajar",
+      "qu": "Vive la emoción de viajar",
+      "pt": "Vive la emoción de viajar",
+      "fr": "Vivez le frisson du voyage",
+      "nl": "Beleef de sensatie van reizen"
+    },
+    "gift_card_title": {
+      "en": "Gift card",
+      "es": "Gift card",
+      "qu": "Gift card",
+      "pt": "Gift card",
+      "fr": "Gift card",
+      "nl": "Gift card"
+    },
+    "gift_card_description": {
+      "en": "Give unforgettable experiences with the new gift card from Cruz del Sur",
+      "es": "Regala experiencias inolvidables con la nueva Gift card de Cruz del Sur",
+      "qu": "Regala experiencias inolvidables con la nueva Gift card de Cruz del Sur",
+      "pt": "Regala experiencias inolvidables con la nueva Gift card de Cruz del Sur",
+      "fr": "Offrez des expériences inoubliables avec la nouvelle carte-cadeau de Cruz del Sur",
+      "nl": "Geef onvergetelijke ervaringen met de nieuwe cadeaukaart van Cruz del Sur"
+    },
+    "have_safe_trip_title": {
+      "en": "Have a safe trip",
+      "es": "Ten un viaje seguro",
+      "qu": "Ten un viaje seguro",
+      "pt": "Ten un viaje seguro",
+      "fr": "Bon voyage",
+      "nl": "Veilige reis"
+    },
+    "have_safe_trip_description": {
+      "en": "We comply with the highest quality standards in road and health safety to give you the confidence to travel safely.",
+      "es": "Cumplimos con los más altos estándares de calidad en seguridad vial y sanitaria para brindarte la confianza de viajar seguro.",
+      "qu": "Cumplimos con los más altos estándares de calidad en seguridad vial y sanitaria para brindarte la confianza de viajar seguro.",
+      "pt": "Cumplimos con los más altos estándares de calidad en seguridad vial y sanitaria para brindarte la confianza de viajar seguro.",
+      "fr": "Nous respectons les normes de qualité les plus élevées en matière de sécurité routière et sanitaire pour vous donner la confiance nécessaire pour voyager en toute sécurité.",
+      "nl": "We voldoen aan de hoogste kwaliteitsnormen op het gebied van verkeers- en gezondheidsveiligheid om u het vertrouwen te geven om veilig te reizen."
+    },
+    "join_travel_program_title": {
+      "en": "Join the travel program!",
+      "es": "¡Unete al programa VIAJEMOS!",
+      "qu": "¡Unete al programa VIAJEMOS!",
+      "pt": "¡Unete al programa VIAJEMOS!",
+      "fr": "Rejoignez le programme de voyage!",
+      "nl": "Doe mee met het reisprogramma!"
+    },
+    "join_travel_program_title_description": {
+      "en": "Cruz del Sur loyalty program through which you can get discounts on tickets throughout Peru.",
+      "es": "Programa de fidelización de Cruz del Sur a través del cual se pueden conseguir descuentos en pasajes por todo el Perú.",
+      "qu": "Programa de fidelización de Cruz del Sur a través del cual se pueden conseguir descuentos en pasajes por todo el Perú.",
+      "pt": "Programa de fidelización de Cruz del Sur a través del cual se pueden conseguir descuentos en pasajes por todo el Perú.",
+      "fr": "Programme de fidélité Cruz del Sur grâce auquel vous pouvez obtenir des réductions sur les billets dans tout le Pérou.",
+      "nl": "Cruz del Sur loyaliteitsprogramma waarmee u kortingen kunt krijgen op tickets in heel Peru."
+    },
+    "destinations_title": {
+      "en": "Destinations",
+      "es": "Destinos",
+      "qu": "Destinos",
+      "pt": "Destinos",
+      "fr": "Destinations",
+      "nl": "Bestemmingen"
+    },
+    "destinations_description": {
+      "en": "Fall more in love with Peru!\nHere you can learn a little more about each destination we go to.",
+      "es": "¡Enamórate más del Perú!\nAquí podrás conocer un poco más de cada destino al que vamos.",
+      "qu": "¡Enamórate más del Perú!\nAquí podrás conocer un poco más de cada destino al que vamos.",
+      "pt": "¡Enamórate más del Perú!\nAquí podrás conocer un poco más de cada destino al que vamos.",
+      "fr": "Tombez plus amoureux du Pérou !\nIci, vous pouvez en apprendre un peu plus sur chaque destination où nous allons.",
+      "nl": "Word meer verliefd op Peru!\nHier kun je iets meer te weten komen over elke bestemming waar we naartoe gaan."
+    },
+    "more_information": {
+      "en": "More information",
+      "es": "Más información",
+      "qu": "Más información",
+      "pt": "Más información",
+      "fr": "Plus d'information",
+      "nl": "Meer informatie"
+    },
+    "cancel": {
+      "en": "Cancel",
+      "es": "Cancelar",
+      "qu": "Cancelar",
+      "pt": "Cancelar",
+      "fr": "Annuler",
+      "nl": "Annuleren"
+    },
+    "continue": {
+      "en": "Continue",
+      "es": "Continuar",
+      "qu": "Continuar",
+      "pt": "Continuar",
+      "fr": "Continuer",
+      "nl": "Doorgaan"
+    },
+    "stop_your_reservation": {
+      "en": "Are you sure you want to stop your reservation?",
+      "es": "¿Estás seguro de que quieres cancelar tu reserva?",
+      "qu": "¿Estás seguro de que quieres cancelar tu reserva?",
+      "pt": "¿Estás seguro de que quieres cancelar tu reserva?",
+      "fr": "Êtes-vous sûr de vouloir annuler votre réservation?",
+      "nl": "Bent je zeker dat jij je reservering wilt annuleren?"
+    },
+    "release": {
+      "title": {
+        "en": "Release",
+        "es": "Comunicado",
+        "qu": "Comunicado",
+        "pt": "Comunicado",
+        "fr": "Communication",
+        "nl": "Communicatie"
+      },
+      "collapse_title": {
+        "en": "Communication related to vaccination",
+        "es": "Comunicado relacionado a vacunación",
+        "qu": "Comunicado relacionado a vacunación",
+        "pt": "Comunicado relacionado a vacunación",
+        "fr": "Communication liée à la vaccination",
+        "nl": "Communicatie in verband met vaccinatie"
+      },
+      "description1": {
+        "en": "All passengers are informed that people over 12 years of age must prove that they have received the first and second dose of vaccination against COVID 19, as an essential requirement to travel, and those over 18 years of age must have received the third dose; or failing that, they may present a negative molecular test with a result date no greater than 48 hours before boarding.",
+        "es": "Se comunica a todos los pasajeros que las personas mayores de 12 años deberán acreditar haber recibido la primera y segunda dosis de vacunación contra la COVID 19, como requisito indispensable para viajar, y los mayores de 18 años haber recibido la tercera dosis; o en su defecto podrán presentar una prueba molecular negativa con fecha de resultado no mayor a 48 horas antes de abordar.",
+        "qu": "Se comunica a todos los pasajeros que las personas mayores de 12 años deberán acreditar haber recibido la primera y segunda dosis de vacunación contra la COVID 19, como requisito indispensable para viajar, y los mayores de 18 años haber recibido la tercera dosis; o en su defecto podrán presentar una prueba molecular negativa con fecha de resultado no mayor a 48 horas antes de abordar.",
+        "pt": "Se comunica a todos los pasajeros que las personas mayores de 12 años deberán acreditar haber recibido la primera y segunda dosis de vacunación contra la COVID 19, como requisito indispensable para viajar, y los mayores de 18 años haber recibido la tercera dosis; o en su defecto podrán presentar una prueba molecular negativa con fecha de resultado no mayor a 48 horas antes de abordar.",
+        "fr": "Tous les passagers sont informés que les personnes de plus de 12 ans doivent prouver qu'elles ont reçu la première et la deuxième dose de vaccination contre le COVID 19, comme condition essentielle pour voyager, et les personnes de plus de 18 ans doivent avoir reçu la troisième dose ; ou à défaut, ils peuvent présenter un test moléculaire négatif dont la date de résultat ne dépasse pas 48 heures avant l'embarquement.",
+        "nl": "Alle passagiers worden geïnformeerd dat personen ouder dan 12 jaar moeten bewijzen dat ze de eerste en tweede dosis vaccinatie tegen COVID 19 hebben gekregen, als een essentiële vereiste om te reizen, en dat personen ouder dan 18 jaar de derde dosis moeten hebben gekregen; of als dat niet lukt, mogen ze een negatieve moleculaire test presenteren met een uitslagdatum niet later dan 48 uur voor het instappen."
+      },
+      "description2": {
+        "en": "This new measure has been established by the Government in Supreme Decree DS-030 2022.",
+        "es": "Esta nueva medida ha sido establecida por el Gobierno en el Decreto Supremo DS-030 2022.",
+        "qu": "Esta nueva medida ha sido establecida por el Gobierno en el Decreto Supremo DS-030 2022.",
+        "pt": "Esta nueva medida ha sido establecida por el Gobierno en el Decreto Supremo DS-030 2022.",
+        "fr": "Cette nouvelle mesure a été établie par le gouvernement dans le décret suprême DS-030 2022.",
+        "nl": "Deze nieuwe maatregel is door de regering vastgesteld in Hoger Besluit DS-030 2022."
+      }
+    },
+    "popularBusRoutes": {
+      "title": {
+        "en": "What are the most popular bus routes?",
+        "es": "¿Cuáles son las rutas de bus más populares?",
+        "qu": "¿Cuáles son las rutas de bus más populares?",
+        "pt": "¿Cuáles son las rutas de bus más populares?",
+        "fr": "Quelles sont les lignes de bus les plus fréquentées ?",
+        "nl": "Wat zijn de meest populaire busroutes?"
+      },
+      "bus": {
+        "en": "Bus",
+        "es": "Bus",
+        "qu": "Bus",
+        "pt": "Bus",
+        "fr": "Bus",
+        "nl": "Bus"
+      },
+      "from": {
+        "en": "from",
+        "es": "de",
+        "qu": "de",
+        "pt": "de",
+        "fr": "de",
+        "nl": "van"
+      },
+      "to": {
+        "en": "to",
+        "es": "a",
+        "qu": "a",
+        "pt": "a",
+        "fr": "à",
+        "nl": "naar"
+      }
+    }
+  },
+  "menu_footer": {
+    "benefits": {
+      "en": "Benefits",
+      "es": "Beneficios",
+      "qu": "Beneficios",
+      "pt": "Beneficios",
+      "fr": "Bénéfices",
+      "nl": "Winsten"
+    },
+    "destinations": {
+      "en": "Destinations",
+      "es": "Destinos",
+      "qu": "Destinos",
+      "pt": "Destinos",
+      "fr": "Destinations",
+      "nl": "Bestemmingen"
+    },
+    "services": {
+      "en": "Services",
+      "es": "Servicios",
+      "qu": "Servicios",
+      "pt": "Servicios",
+      "fr": "Services",
+      "nl": "Diensten"
+    },
+    "regular_passenger": {
+      "en": "Regular passenger",
+      "es": "Pasajero frecuente",
+      "qu": "Pasajero frecuente",
+      "pt": "Pasajero frecuente",
+      "fr": "Passager régulier",
+      "nl": "Regelmatige passagier"
+    },
+    "help_center": {
+      "en": "Help center",
+      "es": "Centro de ayuda",
+      "qu": "Centro de ayuda",
+      "pt": "Centro de ayuda",
+      "fr": "Centre d'aide",
+      "nl": "Helpcentrum"
+    },
+    "fare_restrictions": {
+      "en": "Fare restrictions",
+      "es": "Restricciones de tarifa",
+      "qu": "Restricciones de tarifa",
+      "pt": "Restricciones de tarifa",
+      "fr": "Restrictions tarifaires",
+      "nl": "Fare beperkingen"
+    },
+    "terms_conditions": {
+      "en": "Terms and conditions",
+      "es": "Términos y condiciones",
+      "qu": "Términos y condiciones",
+      "pt": "Términos y condiciones",
+      "fr": "Termes et conditions",
+      "nl": "Termen en voorwaarden"
+    },
+    "complaints_book": {
+      "en": "Complaints book",
+      "es": "Libro de reclamaciones",
+      "qu": "Libro de reclamaciones",
+      "pt": "Libro de reclamaciones",
+      "fr": "Cahiers de doléances",
+      "nl": "Klachtenboek"
+    },
+    "data_protection": {
+      "en": "Data Protection",
+      "es": "Protección de datos",
+      "qu": "Protección de datos",
+      "pt": "Protección de datos",
+      "fr": "Protection de données",
+      "nl": "Data bescherming"
+    },
+    "supplier_Portal": {
+      "en": "Supplier Portal",
+      "es": "Portal de proveedor",
+      "qu": "Portal de proveedor",
+      "pt": "Portal de proveedor",
+      "fr": "Portail des fournisseurs",
+      "nl": "Leveranciersportal"
+    }
+  },
+  "schedules": {
+    "results": {
+      "en": "Results:",
+      "es": "Resultados:",
+      "qu": "Resultados:",
+      "pt": "Resultados:",
+      "fr": "Résultats:",
+      "nl": "Resultaten:"
+    },
+    "sort_by": {
+      "en": "Sort by:",
+      "es": "Ordenar por:",
+      "qu": "Ordenar por:",
+      "pt": "Ordenar por:",
+      "fr": "Trier par:",
+      "nl": "Sorteren op:"
+    },
+    "cheapest": {
+      "en": "Cheapest",
+      "es": "Más barato",
+      "qu": "Más barato",
+      "pt": "Más barato",
+      "fr": "Moins cher",
+      "nl": "Goedkoper"
+    },
+    "fastest": {
+      "en": "Fastest",
+      "es": "Más rápido",
+      "qu": "Más rápido",
+      "pt": "Más rápido",
+      "fr": "Plus rapide",
+      "nl": "Sneller"
+    },
+    "earliest": {
+      "en": "Earliest",
+      "es": "Más temprano",
+      "qu": "Más temprano",
+      "pt": "Más temprano",
+      "fr": "Plus tôt",
+      "nl": "Eerder"
+    },
+    "latest": {
+      "en": "Latest",
+      "es": "Más tarde",
+      "qu": "Más tarde",
+      "pt": "Más tarde",
+      "fr": "Plus tard",
+      "nl": "Laatste"
+    },
+    "from_price": {
+      "en": "From",
+      "es": "Desde",
+      "qu": "Desde",
+      "pt": "Desde",
+      "fr": "À partir de",
+      "nl": "Van"
+    },
+    "from_city": {
+      "en": "From",
+      "es": "De",
+      "qu": "De",
+      "pt": "De",
+      "fr": "Du",
+      "nl": "Uit"
+    },
+    "stops": {
+      "en": "Stops",
+      "es": "Escalas",
+      "qu": "Escalas",
+      "pt": "Escalas",
+      "fr": "Escales",
+      "nl": "Stops"
+    },
+    "select": {
+      "en": "Select",
+      "es": "Seleccionar",
+      "qu": "Seleccionar",
+      "pt": "Seleccionar",
+      "fr": "Sélectionner",
+      "nl": "Selecteren"
+    },
+    "title-select_your_outbound_trip": {
+      "en": "Select your trip.",
+      "es": "Selecciona tu viaje.",
+      "qu": "Selecciona tu viaje.",
+      "pt": "Selecciona tu viaje.",
+      "fr": "Sélectionnez votre voyage.",
+      "nl": "Selecteer uw reis."
+    },
+    "select_your_outbound_trip": {
+      "en": "Select your outbound trip",
+      "es": "Selecciona tu viaje de salida",
+      "qu": "Selecciona tu viaje de salida",
+      "pt": "Selecciona tu viaje de salida",
+      "fr": "Sélectionnez votre voyage de départ",
+      "nl": "Selecteer uw vertrekreis"
+    },
+    "select_your_return_trip": {
+      "en": "Select your return trip",
+      "es": "Selecciona tu viaje de retorno",
+      "qu": "Selecciona tu viaje de retorno",
+      "pt": "Selecciona tu viaje de retorno",
+      "fr": "Sélectionnez votre voyage de retour",
+      "nl": "Selecteer uw terugreis"
+    },
+    "outbound": {
+      "en": "Outbound",
+      "es": "Salida",
+      "qu": "Salida",
+      "pt": "Salida",
+      "fr": "Départ",
+      "nl": "Vertrek"
+    },
+    "return": {
+      "en": "Return",
+      "es": "Retorno",
+      "qu": "Retorno",
+      "pt": "Retorno",
+      "fr": "Retour",
+      "nl": "Terug"
+    },
+    "seats": {
+      "en": "Free",
+      "es": "Libres",
+      "qu": "Libres",
+      "pt": "Libres",
+      "fr": "Libres",
+      "nl": "Vrij"
+    },
+    "your_search": {
+      "en": "Your search:",
+      "es": "Tu búsqueda:",
+      "qu": "Tu búsqueda:",
+      "pt": "Tu búsqueda:",
+      "fr": "Votre recherche:",
+      "nl": "Uw zoekopdracht:"
+    },
+    "schedules_not_available": {
+      "en": "Schedules not available",
+      "es": "Horarios no disponibles",
+      "qu": "Horarios no disponibles",
+      "pt": "Horarios no disponibles",
+      "fr": "Horaires non disponibles",
+      "nl": "Schema's niet beschikbaar"
+    },
+    "schedules_available_soon": {
+      "en": "Schedules available soon",
+      "es": "Horarios disponibles pronto",
+      "qu": "Horarios disponibles pronto",
+      "pt": "Horarios disponibles pronto",
+      "fr": "Horaires bientôt disponibles",
+      "nl": "Schema's binnenkort beschikbaar"
+    },
+    "alert_message_1-pt1": {
+      "en": "Make sure you meet the",
+      "es": "Asegúrate de cumplir con los",
+      "qu": "Asegúrate de cumplir con los",
+      "pt": "Asegúrate de cumplir con los",
+      "fr": "Assurez-vous de remplir les",
+      "nl": "Zorg ervoor dat je voldoet aan de"
+    },
+    "alert_message_1-pt2": {
+      "en": "requirements",
+      "es": "requisitos",
+      "qu": "requisitos",
+      "pt": "requisitos",
+      "fr": "exigences",
+      "nl": "vereisten"
+    },
+    "alert_message_1-pt3": {
+      "en": "to travel to this destination.",
+      "es": "para viajar a este destino.",
+      "qu": "para viajar a este destino.",
+      "pt": "para viajar a este destino.",
+      "fr": "pour voyager à cette destination.",
+      "nl": "om naar deze bestemming te reizen."
+    }
+  },
+  "login": {
+    "continue_with": {
+      "en": "Continue with",
+      "es": "Continuar con",
+      "qu": "Continuar con",
+      "pt": "Continuar con",
+      "fr": "Continue avec",
+      "nl": "Ga verder met"
+    },
+    "sign_in": {
+      "en": "Sign in",
+      "es": "Iniciar sesión",
+      "qu": "Iniciar sesión",
+      "pt": "Iniciar sesión",
+      "fr": "Commencer la session",
+      "nl": "Inloggen"
+    },
+    "sign_up": {
+      "en": "Sign up",
+      "es": "Registrarse",
+      "qu": "Registrarse",
+      "pt": "Registrarse",
+      "fr": "Inscrivez-vous",
+      "nl": "Registreren"
+    },
+    "show_password": {
+      "en": "Show password",
+      "es": "Mostrar contraseña",
+      "qu": "Mostrar contraseña",
+      "pt": "Mostrar contraseña",
+      "fr": "Montrer le mot de passe",
+      "nl": "Toon wachtwoord"
+    },
+    "sign_in_to": {
+      "en": "Sign in to your Cruz del Sur account",
+      "es": "Ingresa a tu cuenta de Cruz Del Sur",
+      "qu": "Ingresa a tu cuenta de Cruz Del Sur",
+      "pt": "Ingresa a tu cuenta de Cruz Del Sur",
+      "fr": "Connectez-vous à votre compte Cruz del Sur",
+      "nl": "Log in op uw Cruz del Sur-account"
+    },
+    "sign_up_to": {
+      "en": "Create a Cruz del Sur account",
+      "es": "Crea una cuenta de Cruz Del Sur",
+      "qu": "Crea una cuenta de Cruz Del Sur",
+      "pt": "Crea una cuenta de Cruz Del Sur",
+      "fr": "Créer un compte Cruz del Sur",
+      "nl": "Maak een Cruz del Sur-account aan"
+    },
+    "no_have_account": {
+      "en": "Don't have an account?",
+      "es": "¿No tienes una cuenta?",
+      "qu": "¿No tienes una cuenta?",
+      "pt": "¿No tienes una cuenta?",
+      "fr": "Vous n'avez pas de compte?",
+      "nl": "Geen account?"
+    },
+    "have_account": {
+      "en": "Already have an account?",
+      "es": "¿Ya tienes una cuenta?",
+      "qu": "¿Ya tienes una cuenta?",
+      "pt": "¿Ya tienes una cuenta?",
+      "fr": "Vous avez déjà un compte?",
+      "nl": "Heeft u al een account?"
+    },
+    "sign-in-title": {
+      "en": "Sign in with an email",
+      "es": "Iniciar sesión con un correo electrónico",
+      "qu": "Iniciar sesión con un correo electrónico",
+      "pt": "Iniciar sesión con un correo electrónico",
+      "fr": "Connectez-vous avec un e-mail",
+      "nl": "Log in met een e-mail"
+    },
+    "sign-up-title": {
+      "en": "Sign up with an email",
+      "es": "Regístrate con un correo electrónico",
+      "qu": "Regístrate con un correo electrónico",
+      "pt": "Regístrate con un correo electrónico",
+      "fr": "Inscrivez-vous avec un e-mail",
+      "nl": "Aanmelden met een e-mail"
+    },
+    "sign-in-social-title": {
+      "en": "Login with a social network",
+      "es": "Iniciar sesión con una red social",
+      "qu": "Iniciar sesión con una red social",
+      "pt": "Iniciar sesión con una red social",
+      "fr": "Connectez-vous avec un réseau social",
+      "nl": "Inloggen met een sociaal netwerk"
+    },
+    "sign-up-social-title": {
+      "en": "Sign up with a social network",
+      "es": "Regístrate con una red social",
+      "qu": "Regístrate con una red social",
+      "pt": "Regístrate con una red social",
+      "fr": "Inscrivez-vous avec un réseau social",
+      "nl": "Aanmelden met een sociaal netwerk"
+    }
+  },
+  "seats": {
+    "outbound": {
+      "en": "Outbound",
+      "es": "Salida",
+      "qu": "Salida",
+      "pt": "Salida",
+      "fr": "Aller",
+      "nl": "Uitgaan"
+    },
+    "return": {
+      "en": "Return",
+      "es": "Retorno",
+      "qu": "Retorno",
+      "pt": "Retorno",
+      "fr": "Retour",
+      "nl": "Terug"
+    },
+    "seats": {
+      "en": "Seats",
+      "es": "Asientos",
+      "qu": "Asientos",
+      "pt": "Asientos",
+      "fr": "Sièges",
+      "nl": "Zetels"
+    },
+    "continue_to_passengers": {
+      "en": "Continue to passengers",
+      "es": "Continuar con los pasajeros",
+      "qu": "Continuar con los pasajeros",
+      "pt": "Continuar con los pasajeros",
+      "fr": "Continuer à passagers",
+      "nl": "Doorgaan naar passagiers"
+    },
+    "continue_to_outbound_bus": {
+      "en": "Continue with departure bus",
+      "es": "Continuar con bus de salida",
+      "qu": "Continuar con bus de salida",
+      "pt": "Continuar con bus de salida",
+      "fr": "Continuer vers bus aller",
+      "nl": "Doorgaan naar uitgaande bus"
+    },
+    "continue_to_return_bus": {
+      "en": "Continue with return bus",
+      "es": "Continuar con bus de retorno",
+      "qu": "Continuar con bus de retorno",
+      "pt": "Continuar con bus de retorno",
+      "fr": "Continuer vers bus retour",
+      "nl": "Verder gaan met terug bus"
+    },
+    "choose_your_seats": {
+      "en": "Choose your seats",
+      "es": "Elige tus asientos",
+      "qu": "Elige tus asientos",
+      "pt": "Elige tus asientos",
+      "fr": "Choisissez vos sièges",
+      "nl": "Kies je zetels"
+    },
+    "outbound_bus": {
+      "en": "Outbound bus",
+      "es": "Bus de salida",
+      "qu": "Bus de salida",
+      "pt": "Bus de salida",
+      "fr": "Bus de sortie",
+      "nl": "Uitgaande bus"
+    },
+    "return_bus": {
+      "en": "Return bus",
+      "es": "Bus de retorno",
+      "qu": "Bus de retorno",
+      "pt": "Bus de retorno",
+      "fr": "Retour bus",
+      "nl": "Terugbus"
+    },
+    "first_floor": {
+      "en": "First floor",
+      "es": "Primer piso",
+      "qu": "Primer piso",
+      "pt": "Primer piso",
+      "fr": "Premier étage",
+      "nl": "Eerste verdieping"
+    },
+    "second_floor": {
+      "en": "Second floor",
+      "es": "Segundo piso",
+      "qu": "Segundo piso",
+      "pt": "Segundo piso",
+      "fr": "Deuxième étage",
+      "nl": "Tweede verdieping"
+    },
+    "title_select_seats": {
+      "en": "Select seats.",
+      "es": "Seleccione asiento(s).",
+      "qu": "Seleccione asiento(s).",
+      "pt": "Seleccione asiento(s).",
+      "fr": "Sélectionnez sièges.",
+      "nl": "Selecteer zetels."
+    },
+    "select_outbound_seats": {
+      "en": "Select outbound seats.",
+      "es": "Seleccione asiento(s) de salida.",
+      "qu": "Seleccione asiento(s) de salida.",
+      "pt": "Seleccione asiento(s) de salida.",
+      "fr": "Sélectionnez vos sièges aller.",
+      "nl": "Selecteer uw uitgaande zetels."
+    },
+    "select_return_seats": {
+      "en": "Select return seats.",
+      "es": "Selecione asiento(s) de retorno.",
+      "qu": "Selecione asiento(s) de retorno.",
+      "pt": "Selecione asiento(s) de retorno.",
+      "fr": "Sélectionnez vos sièges retour.",
+      "nl": "Selecteer retourzetels."
+    },
+    "maximum_limit": {
+      "en": "Maximum limit",
+      "es": "Límite máximo",
+      "qu": "Límite máximo",
+      "pt": "Límite máximo",
+      "fr": "Limite maximale",
+      "nl": "maximale limiet"
+    },
+    "maximum_limit_outbound": {
+      "en": "You can select maximum <<0>> seats in a bus.",
+      "es": "Puede seleccionar un máximo de <<0>> asientos en un autobús.",
+      "qu": "Puede seleccionar un máximo de <<0>> asientos en un autobús.",
+      "pt": "Puede seleccionar un máximo de <<0>> asientos en un autobús.",
+      "fr": "Vous pouvez sélectionner au maximum <<0>> sièges dans un bus.",
+      "nl": "U kunt maximaal selecteren <<0>> zetels in een bus."
+    },
+    "maximum_limit_return": {
+      "en": "You can select maximum <<0>> seats in a bus.",
+      "es": "Puede seleccionar un máximo de <<0>> asientos en un autobús.",
+      "qu": "Puede seleccionar un máximo de <<0>> asientos en un autobús.",
+      "pt": "Puede seleccionar un máximo de <<0>> asientos en un autobús.",
+      "fr": "Vous pouvez sélectionner au maximum <<0>> sièges dans un bus.",
+      "nl": "U kunt maximaal selecteren <<0>> zetels in een bus."
+    },
+    "empty_bus": {
+      "title": {
+        "en": "Seats not available",
+        "es": "Asientos no disponibles",
+        "qu": "Asientos no disponibles",
+        "pt": "Asientos no disponibles",
+        "fr": "Aucun siège disponible",
+        "nl": "Geen zetel beschikbaar"
+      },
+      "description": {
+        "en": "Seats not available for this bus, start a new search",
+        "es": "Asientos no disponibles para este bus, inicie una nueva búsqueda",
+        "qu": "Asientos no disponibles para este bus, inicie una nueva búsqueda",
+        "pt": "Asientos no disponibles para este bus, inicie una nueva búsqueda",
+        "fr": "Aucun siège disponible pour ce bus, lancez une nouvelle recherche.",
+        "nl": "Geen zetel beschikbaar voor deze bus, zoek opnieuw."
+      }
+    }
+  },
+  "passengers": {
+    "outbound_passengers": {
+      "en": "Outbound passengers",
+      "es": "Pasajeros de salida",
+      "qu": "Pasajeros de salida",
+      "pt": "Pasajeros de salida",
+      "fr": "Passagers départ",
+      "nl": "Vertrek passagiers"
+    },
+    "return_passengers": {
+      "en": "Return passengers",
+      "es": "Pasajeros de retorno",
+      "qu": "Pasajeros de retorno",
+      "pt": "Pasajeros de retorno",
+      "fr": "Passagers retour",
+      "nl": "Retour passagiers"
+    },
+    "continue_with_payment": {
+      "en": "Continue with the payment",
+      "es": "Continuar con el pago",
+      "qu": "Continuar con el pago",
+      "pt": "Continuar con el pago",
+      "fr": "Continuer avec le paiement",
+      "nl": "Ga verder met de betaling"
+    },
+    "continue_with_return_passengers": {
+      "en": "Continue with return passengers",
+      "es": "Continuar con pasajeros de retorno",
+      "qu": "Continuar con pasajeros de retorno",
+      "pt": "Continuar con pasajeros de retorno",
+      "fr": "Continuer avec le paiement",
+      "nl": "Ga verder met retourpassagiers"
+    },
+    "use_outbound_passenger_data": {
+      "en": "Use outbound passenger data",
+      "es": "Usar los datos del pasajero de salida",
+      "qu": "Usar los datos del pasajero de salida",
+      "pt": "Usar los datos del pasajero de salida",
+      "fr": "Utiliser les données des passagers aller",
+      "nl": "Gebruik uitgaande passagiersgegevens"
+    },
+    "type_document": {
+      "en": "Type document",
+      "es": "Tipo de documento",
+      "qu": "Tipo de documento",
+      "pt": "Tipo de documento",
+      "fr": "Type de document",
+      "nl": "Documenttype"
+    },
+    "document_number": {
+      "en": "Document number",
+      "es": "Número de documento",
+      "qu": "Número de documento",
+      "pt": "Número de documento",
+      "fr": "Numéro de document",
+      "nl": "Document Nummer"
+    },
+    "date_of_birth": {
+      "en": "Date of birth",
+      "es": "Fecha de nacimiento",
+      "qu": "Fecha de nacimiento",
+      "pt": "Fecha de nacimiento",
+      "fr": "Date de naissance",
+      "nl": "Geboortedatum"
+    },
+    "nationality": {
+      "en": "Nationality",
+      "es": "Nacionalidad",
+      "qu": "Nacionalidad",
+      "pt": "Nacionalidad",
+      "fr": "Nationalité",
+      "nl": "Nationaliteit"
+    },
+    "discount_code": {
+      "en": "Discount code",
+      "es": "Código de descuento",
+      "qu": "Código de descuento",
+      "pt": "Código de descuento",
+      "fr": "Code de réduction",
+      "nl": "Kortingscode"
+    },
+    "apply": {
+      "en": "Apply",
+      "es": "Aplicar",
+      "qu": "Aplicar",
+      "pt": "Aplicar",
+      "fr": "Appliquer",
+      "nl": "Toepassen"
+    },
+    "title_invalid_coupon": {
+      "en": "Invalid coupon.",
+      "es": "Cupón no válido.",
+      "qu": "Cupón no válido.",
+      "pt": "Cupón no válido.",
+      "fr": "Coupon invalide.",
+      "nl": "Ongeldige coupon."
+    },
+    "invalid_coupon": {
+      "en": "Coupon not accepted, try again.",
+      "es": "Cupón no aceptado, inténtalo de nuevo.",
+      "qu": "Cupón no aceptado, inténtalo de nuevo.",
+      "pt": "Cupón no aceptado, inténtalo de nuevo.",
+      "fr": "Coupon non accepté, réessayez.",
+      "nl": "Coupon niet geaccepteerd, probeer het opnieuw."
+    },
+    "title_valid_coupon": {
+      "en": "Valid coupon.",
+      "es": "Cupón válido.",
+      "qu": "Cupón válido.",
+      "pt": "Cupón válido.",
+      "fr": "Coupon valide.",
+      "nl": "Geldige coupon."
+    },
+    "valid_coupon": {
+      "en": "Coupon accepted successful.",
+      "es": "Cupón aceptado con éxito.",
+      "qu": "Cupón aceptado con éxito.",
+      "pt": "Cupón aceptado con éxito.",
+      "fr": "Coupon accepté avec succès.",
+      "nl": "Coupon succesvol geaccepteerd."
+    },
+    "title_discount_code": {
+      "en": "Enter the coupon for this passenger",
+      "es": "Ingrese el cupón para este pasajero",
+      "qu": "Ingrese el cupón para este pasajero",
+      "pt": "Ingrese el cupón para este pasajero",
+      "fr": "Entrez le coupon pour ce passager",
+      "nl": "Voer de coupon voor deze passagier"
+    },
+    "discount_applied-title": {
+      "en": "Discount applied!",
+      "es": "¡Descuento aplicado!",
+      "qu": "¡Descuento aplicado!",
+      "pt": "¡Descuento aplicado!",
+      "fr": "Remise appliquée!",
+      "nl": "Korting toegepast!"
+    },
+    "cancel": {
+      "en": "Cancel",
+      "es": "Cancelar",
+      "qu": "Cancelar",
+      "pt": "Cancelar",
+      "fr": "Annuler",
+      "nl": "Annuleren"
+    },
+    "travel_mode_for_minors": {
+      "en": "Travel mode (Minor)",
+      "es": "Modalidad de viaje (Menor)",
+      "qu": "Modalidad de viaje (Menor)",
+      "pt": "Modalidad de viaje (Menor)",
+      "fr": "Mode de voyage (Mineur)",
+      "nl": "Reismodus (Minderjarige)"
+    }
+  },
+  "payment": {
+    "contact": {
+      "en": "Contact",
+      "es": "Contacto",
+      "qu": "Contacto",
+      "pt": "Contacto",
+      "fr": "Contact",
+      "nl": "Kontakt"
+    },
+    "by_clicking_confirm": {
+      "en": "By clicking, you confirm and agree to have read the",
+      "es": "Al hacer clic, confirma y acepta haber leído los",
+      "qu": "Al hacer clic, confirma y acepta haber leído los",
+      "pt": "Al hacer clic, confirma y acepta haber leído los",
+      "fr": "En cliquant, vous confirmez et acceptez d'avoir lu le",
+      "nl": "Door te klikken, bevestigt u en gaat u akkoord met het lezen van de"
+    },
+    "terms_of_use": {
+      "en": "Terms of use",
+      "es": "Términos de uso",
+      "qu": "Términos de uso",
+      "pt": "Términos de uso",
+      "fr": "Conditions d'utilisation",
+      "nl": "Gebruiksvoorwaarden"
+    },
+    "and": {
+      "en": "and",
+      "es": "y",
+      "qu": "y",
+      "pt": "y",
+      "fr": "et",
+      "nl": "en"
+    },
+    "data_protection": {
+      "en": "Data protection",
+      "es": "Protección de datos",
+      "qu": "Protección de datos",
+      "pt": "Protección de datos",
+      "fr": "Protection de données",
+      "nl": "Gegevensbescherming"
+    },
+    "fare_restrictions": {
+      "en": "Fare restrictions",
+      "es": "Restricciones de tarifa",
+      "qu": "Restricciones de tarifa",
+      "pt": "Restricciones de tarifa",
+      "fr": "Restrictions tarifaires",
+      "nl": "Tariefbeperkingen"
+    },
+    "requirements_to_travel": {
+      "en": "Requirements to travel",
+      "es": "Requisitos para viajar",
+      "qu": "Requisitos para viajar",
+      "pt": "Requisitos para viajar",
+      "fr": "Exigences pour voyager",
+      "nl": "Vereisten om te reizen"
+    },
+    "accept_use_data": {
+      "en": "I accept the use of my data to receive promotions, offers and exclusive news from Cruz del Sur.",
+      "es": "Acepto el uso de mis datos para recibir promociones, ofertas y noticias exclusivas de Cruz del Sur.",
+      "qu": "Acepto el uso de mis datos para recibir promociones, ofertas y noticias exclusivas de Cruz del Sur.",
+      "pt": "Acepto el uso de mis datos para recibir promociones, ofertas y noticias exclusivas de Cruz del Sur.",
+      "fr": "J'accepte l'utilisation de mes données pour recevoir des promotions, des offres et des actualités exclusives de Cruz del Sur.",
+      "nl": "Ik ga akkoord met het gebruik van mijn gegevens naar promoties, aanbiedingen en exclusief nieuws te ontvangen van Cruz del Sur."
+    },
+    "payment_method": {
+      "en": "Payment method",
+      "es": "Medio de pago",
+      "qu": "Medio de pago",
+      "pt": "Medio de pago",
+      "fr": "Mode de paiement",
+      "nl": "Betalingsmiddel"
+    },
+    "use_user_data": {
+      "en": "Use registered user data",
+      "es": "Usar datos del usuario registrado",
+      "qu": "Usar datos del usuario registrado",
+      "pt": "Usar datos del usuario registrado",
+      "fr": "Utiliser les données d'utilisateur enregistrées",
+      "nl": "Gebruik geregistreerde gebruikersgegevens"
+    },
+    "send_your_tickets": {
+      "en": "Your tickets and receipt will be sent to the email address below.",
+      "es": "Sus boletos y el recibo se enviarán a la dirección de correo electrónico a continuación.",
+      "qu": "Sus boletos y el recibo se enviarán a la dirección de correo electrónico a continuación.",
+      "pt": "Sus boletos y el recibo se enviarán a la dirección de correo electrónico a continuación.",
+      "fr": "Vos billets et reçu seront envoyés à l'adresse e-mail ci-dessous.",
+      "nl": "Je tickets en ontvangstbewijs worden naar het onderstaande e-mailadres gestuurd."
+    },
+    "invoice": {
+      "en": "Invoice",
+      "es": "Facturación",
+      "qu": "Facturación",
+      "pt": "Facturación",
+      "fr": "Facturation",
+      "nl": "Facturering"
+    },
+    "select_invoice_type": {
+      "en": "Choose the type of invoice you want.",
+      "es": "Elige el tipo de comprobante que desee.",
+      "qu": "Elige el tipo de comprobante que desee.",
+      "pt": "Elige el tipo de comprobante que desee.",
+      "fr": "Choisissez le type de facture que vous souhaitez.",
+      "nl": "Kies het type factuur dat u wilt."
+    },
+    "boleta": {
+      "en": "Boleta",
+      "es": "Boleta",
+      "qu": "Boleta",
+      "pt": "Boleta",
+      "fr": "Boleta",
+      "nl": "Boleta"
+    },
+    "factura": {
+      "en": "Factura",
+      "es": "Factura",
+      "qu": "Factura",
+      "pt": "Factura",
+      "fr": "Facture",
+      "nl": "Factuur"
+    },
+    "electronic_boleta": {
+      "en": "Electronic boleta",
+      "es": "Boleta de venta electrónica",
+      "qu": "Boleta de venta electrónica",
+      "pt": "Boleta de venta electrónica",
+      "fr": "Boleta électronique",
+      "nl": "Elektronische boleta"
+    },
+    "electronic_factura": {
+      "en": "Electronic factura",
+      "es": "Factura electrónica (es válido para residentes en Perú que sean contribuyentes en la SUNAT)",
+      "qu": "Factura electrónica (es válido para residentes en Perú que sean contribuyentes en la SUNAT)",
+      "pt": "Factura electrónica (es válido para residentes en Perú que sean contribuyentes en la SUNAT)",
+      "fr": "Facture électronique",
+      "nl": "Elektronische factuur"
+    },
+    "ruc": {
+      "en": "RUC",
+      "es": "RUC",
+      "qu": "RUC",
+      "pt": "RUC",
+      "fr": "RUC",
+      "nl": "RUC"
+    },
+    "business_name": {
+      "en": "Business name",
+      "es": "Razón social",
+      "qu": "Razón social",
+      "pt": "Razón social",
+      "fr": "Nom de l'entreprise",
+      "nl": "Bedrijfsnaam"
+    },
+    "titleSuccess": {
+      "en": "Congratulations you have successfully booked your ticket.",
+      "es": "Enhorabuena, ha reservado con éxito su pasaje.",
+      "qu": "Enhorabuena, ha reservado con éxito su pasaje.",
+      "pt": "Enhorabuena, ha reservado con éxito su pasaje.",
+      "fr": "Félicitations, vous avez réservé votre billet avec succès.",
+      "nl": "Gefeliciteerd, je hebt je ticket succesvol geboekt."
+    },
+    "requestTime": {
+      "en": "Request time",
+      "es": "Hora de pedido",
+      "qu": "Hora de pedido",
+      "pt": "Hora de pedido",
+      "fr": "Heure d'achat",
+      "nl": "Tijd aanvragen"
+    },
+    "orderNumber": {
+      "en": "Order number",
+      "es": "Número de pedido",
+      "qu": "Número de pedido",
+      "pt": "Número de pedido",
+      "fr": "Numéro de commande",
+      "nl": "Bestellingsnummer"
+    },
+    "accountNumber": {
+      "en": "Account number",
+      "es": "Número de cuenta",
+      "qu": "Número de cuenta",
+      "pt": "Número de cuenta",
+      "fr": "Numéro de compte",
+      "nl": "Rekeningnummer"
+    },
+    "authorizationCode": {
+      "en": "Authorization code",
+      "es": "Código de autorización",
+      "qu": "Código de autorización",
+      "pt": "Código de autorización",
+      "fr": "Code d'autorisation",
+      "nl": "Authorisatie code"
+    },
+    "transactionAmount": {
+      "en": "Amount",
+      "es": "Monto",
+      "qu": "Monto",
+      "pt": "Monto",
+      "fr": "Montant",
+      "nl": "Bedrag"
+    },
+    "departureTime": {
+      "en": "Departure time",
+      "es": "Hora de partida",
+      "qu": "Hora de partida",
+      "pt": "Hora de partida",
+      "fr": "Heure de départ",
+      "nl": "Vertrektijd"
+    },
+    "arrivalTime": {
+      "en": "Arrival time",
+      "es": "Hora de llegada",
+      "qu": "Hora de llegada",
+      "pt": "Hora de llegada",
+      "fr": "Heure d'arrivée",
+      "nl": "Aankomsttijd"
+    },
+    "messageConfirm": {
+      "en": "* It is recommended to print and save the transaction receipt.",
+      "es": "* Se recomienda imprimir y guardar el recibo de transacción.",
+      "qu": "* Se recomienda imprimir y guardar el recibo de transacción.",
+      "pt": "* Se recomienda imprimir y guardar el recibo de transacción.",
+      "fr": "* Il est recommandé d'imprimer et de sauvegarder le reçu de la transaction.",
+      "nl": "* Het wordt aanbevolen om de transactiebon af te drukken en op te slaan."
+    },
+    "fullName": {
+      "en": "Full name",
+      "es": "Nombre completo",
+      "qu": "Nombre completo",
+      "pt": "Nombre completo",
+      "fr": "Nom complet",
+      "nl": "Volledige naam"
+    },
+    "floor": {
+      "en": "Floor",
+      "es": "Piso",
+      "qu": "Piso",
+      "pt": "Piso",
+      "fr": "Etage",
+      "nl": "Verdieping"
+    },
+    "seat": {
+      "en": "Seat",
+      "es": "Asiento",
+      "qu": "Asiento",
+      "pt": "Asiento",
+      "fr": "Siège",
+      "nl": "Zetel"
+    },
+    "pay_niubiz_title": {
+      "en": "Make your payment with a credit or debit card",
+      "es": "Realice su pago con tarjeta de crédito o débito",
+      "qu": "Realice su pago con tarjeta de crédito o débito",
+      "pt": "Realice su pago con tarjeta de crédito o débito",
+      "fr": "Effectuez votre paiement avec une carte de crédit ou de débit",
+      "nl": "Voer uw betaling uit met een creditcard of betaalpas"
+    },
+    "pay_pay_pal_title": {
+      "en": "Make your payment with a credit or debit card",
+      "es": "Realice su pago con tarjeta de crédito o débito",
+      "qu": "Realice su pago con tarjeta de crédito o débito",
+      "pt": "Realice su pago con tarjeta de crédito o débito",
+      "fr": "Effectuez votre paiement avec une carte de crédit ou de débit",
+      "nl": "Voer uw betaling uit met een creditcard of betaalpas"
+    },
+    "pay_pago_efectivo_title": {
+      "en": "Make your payment online or in cash",
+      "es": "Realice su pago en línea o en efectivo",
+      "qu": "Realice su pago en línea o en efectivo",
+      "pt": "Realice su pago en línea o en efectivo",
+      "fr": "Effectuez votre paiement en ligne ou en espèces",
+      "nl": "Maak uw betaling online of in contanten"
+    },
+    "pay_pago_efectivo_description": {
+      "en": "Pay in Yape, Plin, BBVA, BCP, Interbank, Scotiabank, BanBif, Caja Arequipa and Banco Pichincha through mobile banking, QR or Red Digital, agents and stores, Kasnet, Niubiz Agent, Tambo+, Western Union and Disashop on account Payment Cash within the next 3 hours after making the reservation, otherwise your reservation will be cancelled.",
+      "es": "Paga en Yape, Plin, BBVA, BCP, Interbank, Scotiabank, BanBif, Caja Arequipa, y Banco pichincha a través de la banca móvil, QR o en agentes y bodegas de Red Digital, Kasnet, Agente Niubiz, Tambo+, Western Union y Disashop a cuenta de PagoEfectivo dentro de las próximas 3 horas después de realizar la reserva, de lo contrario tu reserva será cancelada.",
+      "qu": "Paga en Yape, Plin, BBVA, BCP, Interbank, Scotiabank, BanBif, Caja Arequipa, y Banco pichincha a través de la banca móvil, QR o en agentes y bodegas de Red Digital, Kasnet, Agente Niubiz, Tambo+, Western Union y Disashop a cuenta de PagoEfectivo dentro de las próximas 3 horas después de realizar la reserva, de lo contrario tu reserva será cancelada.",
+      "pt": "Paga en Yape, Plin, BBVA, BCP, Interbank, Scotiabank, BanBif, Caja Arequipa, y Banco pichincha a través de la banca móvil, QR o en agentes y bodegas de Red Digital, Kasnet, Agente Niubiz, Tambo+, Western Union y Disashop a cuenta de PagoEfectivo dentro de las próximas 3 horas después de realizar la reserva, de lo contrario tu reserva será cancelada.",
+      "fr": "Payez à Yape, Plin, BBVA, BCP, Interbank, Scotiabank, BanBif, Caja Arequipa et Banco Pichincha via les services bancaires mobiles, QR ou Red Digital, agents et magasins, Kasnet, Niubiz Agent, Tambo+, Western Union et Disashop sur compte les 3 heures suivant la réservation, sinon votre réservation sera annulée.",
+      "nl": "Betalen in Yape, Plin, BBVA, BCP, Interbank, Scotiabank, BanBif, Caja Arequipa en Banco Pichincha via mobiel bankieren, QR of Red Digital, agenten en winkels, Kasnet, Niubiz Agent, Tambo+, Western Union en Disashop op rekening Betaling Contant binnen de volgende 3 uur na het maken van de reservering, anders wordt uw reservering geannuleerd."
+    },
+    "pay_safetypay_title": {
+      "en": "Make your payment online or in cash",
+      "es": "Realice su pago en línea o en efectivo",
+      "qu": "Realice su pago en línea o en efectivo",
+      "pt": "Realice su pago en línea o en efectivo",
+      "fr": "Effectuez votre paiement en ligne ou en espèces",
+      "nl": "Maak uw betaling online of in contanten"
+    },
+    "pay_safetypay_description": {
+      "en": "Make a transfer by internet banking or deposit to a Cash Payment account at the bank of your choice within the next 2 hours after making the reservation, otherwise your reservation will be canceled.",
+      "es": "Realiza una transferencia a través de banca por internet o depósito a cuenta de SafetyPay en la entidad bancaria de tu preferencia dentro de las próximas 2 horas después de realizar la reserva, de lo contrario tu reserva será cancelada.",
+      "qu": "Realiza una transferencia a través de banca por internet o depósito a cuenta de SafetyPay en la entidad bancaria de tu preferencia dentro de las próximas 2 horas después de realizar la reserva, de lo contrario tu reserva será cancelada.",
+      "pt": "Realiza una transferencia a través de banca por internet o depósito a cuenta de SafetyPay en la entidad bancaria de tu preferencia dentro de las próximas 2 horas después de realizar la reserva, de lo contrario tu reserva será cancelada.",
+      "fr": "Effectuez un virement par internet banking ou un dépôt sur un compte de paiement en espèces à la banque de votre choix dans les 8 heures suivant la réservation, sinon votre réservation sera annulée.",
+      "nl": "Maak binnen 8 uur na het maken van de reservering een overboeking via internetbankieren of storting op een Contante Betaalrekening bij de bank van uw keuze, anders wordt uw reservering geannuleerd."
+    },
+    "credit_or_debit": {
+      "en": "Credit or debit card",
+      "es": "Tarjeta de crédito o débito",
+      "qu": "Tarjeta de crédito o débito",
+      "pt": "Tarjeta de crédito o débito",
+      "fr": "Carte de crédit ou de débit",
+      "nl": "Creditcard of bankpas"
+    },
+    "cash_or_transfer": {
+      "en": "Cash / Transfer",
+      "es": "Efectivo / Transferencia",
+      "qu": "Efectivo / Transferencia",
+      "pt": "Efectivo / Transferencia",
+      "fr": "Espèces / Virement",
+      "nl": "Contant / Overboeking"
+    },
+    "gift_card": {
+      "en": "Gift card",
+      "es": "Tarjeta de regalo",
+      "qu": "Tarjeta de regalo",
+      "pt": "Tarjeta de regalo",
+      "fr": "Carte cadeau",
+      "nl": "Cadeaukaart"
+    },
+    "pay_gift_card_title": {
+      "en": "Make your payment with your gift card",
+      "es": "Realice su pago con su tarjeta de regalo",
+      "qu": "Realice su pago con su tarjeta de regalo",
+      "pt": "Realice su pago con su tarjeta de regalo",
+      "fr": "Effectuez votre paiement avec votre carte cadeau",
+      "nl": "Voer uw betaling uit met uw cadeaukaart"
+    },
+    "pay_gift_card_description": {
+      "en": "Enter your card number and security code.",
+      "es": "Ingrese su número de tarjeta y código de seguridad.",
+      "qu": "Ingrese su número de tarjeta y código de seguridad.",
+      "pt": "Ingrese su número de tarjeta y código de seguridad.",
+      "fr": "Entrez votre numéro de carte et votre code de sécurité.",
+      "nl": "Voer uw kaartnummer en beveiligingscode in."
+    },
+    "pay_gift_card_description_important": {
+      "en": "You must be logged in to pay with a gift card.",
+      "es": "Debes iniciar sesión para pagar con una tarjeta regalo.",
+      "qu": "Debes iniciar sesión para pagar con una tarjeta regalo.",
+      "pt": "Debes iniciar sesión para pagar con una tarjeta regalo.",
+      "fr": "Vous devez être connecté pour payer avec une carte cadeau.",
+      "nl": "Je moet ingelogd zijn om met een cadeaukaart te betalen."
+    },
+    "security_code": {
+      "en": "Security code",
+      "es": "Código de seguridad",
+      "qu": "Código de seguridad",
+      "pt": "Código de seguridad",
+      "fr": "Code de sécurité",
+      "nl": "Beveiligingscode"
+    },
+    "card_number": {
+      "en": "Card number",
+      "es": "Número de tarjeta",
+      "qu": "Número de tarjeta",
+      "pt": "Número de tarjeta",
+      "fr": "Numéro de carte",
+      "nl": "Kaartnummer"
+    },
+    "niubiz_transaction_title": {
+      "en": "Processing transaction",
+      "es": "Procesando trasacción",
+      "qu": "Procesando trasacción",
+      "pt": "Procesando trasacción",
+      "fr": "Transactions en cours",
+      "nl": "Transactieverwerking"
+    },
+    "niubiz_transaction_description": {
+      "en": "Please wait while we are processing the transaction and creating your ticket.",
+      "es": "Espere mientras procesamos la transacción y creamos su ticket.",
+      "qu": "Espere mientras procesamos la transacción y creamos su ticket.",
+      "pt": "Espere mientras procesamos la transacción y creamos su ticket.",
+      "fr": "Veuillez patienter pendant que nous traitons la transaction et créons votre ticket.",
+      "nl": "Even geduld a.u.b. terwijl we de transactie verwerken en uw ticket aanmaken."
+    },
+    "timeout_expired_title": {
+      "en": "Timeout expired",
+      "es": "Tiempo de espera expirado",
+      "qu": "Tiempo de espera expirado",
+      "pt": "Tiempo de espera expirado",
+      "fr": "Délai d'attente expiré",
+      "nl": "Time-out verlopen"
+    },
+    "timeout_expired_description": {
+      "en": "The time to make the payment has expired, try again to make the payment of your trip",
+      "es": "Expiró el tiempo para realizar el pago, inténtelo nuevamente para realizar el pago de su viaje",
+      "qu": "Expiró el tiempo para realizar el pago, inténtelo nuevamente para realizar el pago de su viaje",
+      "pt": "Expiró el tiempo para realizar el pago, inténtelo nuevamente para realizar el pago de su viaje",
+      "fr": "Le temps de paiement a expiré, essayez à nouveau effectuer le paiement de votre voyage",
+      "nl": "De tijd om de betaling is verstreken, opnieuw proberen om de betaling van uw reis"
+    },
+    "pay_here": {
+      "en": "Pay here",
+      "es": "Pague aquí",
+      "qu": "Pague aquí",
+      "pt": "Pague aquí",
+      "fr": "Payez ici",
+      "nl": "Betaal hier"
+    },
+    "complete_my_purchase": {
+      "en": "Complete my purchase",
+      "es": "Completar mi compra",
+      "qu": "Completar mi compra",
+      "pt": "Completar mi compra",
+      "fr": "Finaliser mon achat",
+      "nl": "Mijn aankoop voltooien"
+    }
+  },
+  "general": {
+    "profession": {
+      "en": "Profession",
+      "es": "Profesión",
+      "qu": "Profesión",
+      "pt": "Profesión",
+      "fr": "Métier",
+      "nl": "Beroep"
+    },
+    "country_of_residence": {
+      "en": "Country of residence",
+      "es": "País de residencia",
+      "qu": "País de residencia",
+      "pt": "País de residencia",
+      "fr": "Pays de residence",
+      "nl": "Land van verblijf"
+    },
+    "logout": {
+      "en": "Logout",
+      "es": "Cerrar sesión",
+      "qu": "Cerrar sesión",
+      "pt": "Cerrar sesión",
+      "fr": "Fermer la session",
+      "nl": "Uitloggen"
+    },
+    "optional": {
+      "en": "Optional",
+      "es": "Opcional",
+      "qu": "Optional",
+      "pt": "Optional",
+      "fr": "En option",
+      "nl": "Optioneel"
+    },
+    "last_name": {
+      "en": "Last name",
+      "es": "Apellidos",
+      "qu": "Apellidos",
+      "pt": "Apellidos",
+      "fr": "Nom de famille",
+      "nl": "Achternaam"
+    },
+    "paternal_surname": {
+      "en": "Paternal surname",
+      "es": "Apellido paterno",
+      "qu": "Apellido paterno",
+      "pt": "Apellido paterno",
+      "fr": "Nom de famille paternel",
+      "nl": "Vaderlijke achternaam"
+    },
+    "maternal_surname": {
+      "en": "Maternal surname",
+      "es": "Apellido materno",
+      "qu": "Apellido materno",
+      "pt": "Apellido materno",
+      "fr": "Nom de famille maternel",
+      "nl": "Achternaam van moederskant"
+    },
+    "first_name": {
+      "en": "First name",
+      "es": "Nombres",
+      "qu": "Nombres",
+      "pt": "Nombres",
+      "fr": "Prénom",
+      "nl": "Voornaam"
+    },
+    "email": {
+      "en": "Email",
+      "es": "Correo electrónico",
+      "qu": "Correo electrónico",
+      "pt": "Correo electrónico",
+      "fr": "Email",
+      "nl": "Email"
+    },
+    "phone_number": {
+      "en": "Phone number",
+      "es": "Número de teléfono",
+      "qu": "Número de teléfono",
+      "pt": "Número de teléfono",
+      "fr": "Numéro de téléphone",
+      "nl": "Telefoonnummer"
+    },
+    "passengers": {
+      "en": "Passengers",
+      "es": "Pasajeros",
+      "qu": "Pasajeros",
+      "pt": "Pasajeros",
+      "fr": "Passagers",
+      "nl": "Passagiers"
+    },
+    "passenger": {
+      "en": "Passenger",
+      "es": "Pasajero",
+      "qu": "Pasajero",
+      "pt": "Pasajero",
+      "fr": "Passager",
+      "nl": "Passagier"
+    },
+    "show_password": {
+      "en": "Show password",
+      "es": "Mostrar contraseña",
+      "qu": "Mostrar contraseña",
+      "pt": "Mostrar contraseña",
+      "fr": "Montrer le mot de passe",
+      "nl": "Toon wachtwoord"
+    },
+    "password": {
+      "en": "Password",
+      "es": "Contraseña",
+      "qu": "Contraseña",
+      "pt": "Contraseña",
+      "fr": "Mot de passe",
+      "nl": "Wachtwoord"
+    },
+    "birth_date": {
+      "en": "Date of birth",
+      "es": "Fecha de nacimiento",
+      "qu": "Fecha de nacimiento",
+      "pt": "Fecha de nacimiento",
+      "fr": "Date de naissance",
+      "nl": "Geboortedatum"
+    },
+    "gender": {
+      "en": "Gender",
+      "es": "Género",
+      "qu": "Género",
+      "pt": "Género",
+      "fr": "Genre",
+      "nl": "Geslacht"
+    },
+    "language": {
+      "en": "Language",
+      "es": "Idioma",
+      "qu": "Idioma",
+      "pt": "Idioma",
+      "fr": "Langue",
+      "nl": "Idioom"
+    },
+    "male": {
+      "en": "Male",
+      "es": "Masculino",
+      "qu": "Masculino",
+      "pt": "Masculino",
+      "fr": "Homme",
+      "nl": "Mannelijk"
+    },
+    "female": {
+      "en": "Female",
+      "es": "Femenino",
+      "qu": "Femenino",
+      "pt": "Femenino",
+      "fr": "Femme",
+      "nl": "Vrouwelijk"
+    },
+    "choose_your_seats": {
+      "en": "Choose your seat",
+      "es": "Selección de asiento",
+      "qu": "Selección de asiento",
+      "pt": "Selección de asiento",
+      "fr": "Choisissez votre siège",
+      "nl": "Kies uw zetel"
+    },
+    "passenger_information": {
+      "en": "Passenger information",
+      "es": "Información de pasajero",
+      "qu": "Información de pasajero",
+      "pt": "Información de pasajero",
+      "fr": "Information passager",
+      "nl": "Passagier informatie"
+    },
+    "payment": {
+      "en": "Payment",
+      "es": "Pago",
+      "qu": "Pago",
+      "pt": "Pago",
+      "fr": "Paiement",
+      "nl": "Betaling"
+    },
+    "print": {
+      "en": "Print",
+      "es": "Imprimir",
+      "qu": "Imprimir",
+      "pt": "Imprimir",
+      "fr": "Imprimer",
+      "nl": "Afdrukken"
+    },
+    "continue": {
+      "en": "Continue",
+      "es": "Continuar",
+      "qu": "Continuar",
+      "pt": "Continuar",
+      "fr": "Continuer",
+      "nl": "Doorgaan met"
+    },
+    "refresh_page": {
+      "en": "Refresh page",
+      "es": "Actualizar página",
+      "qu": "Actualizar página",
+      "pt": "Actualizar página",
+      "fr": "Rafraîchir la page",
+      "nl": "Pagina vernieuwen"
+    },
+    "try_again": {
+      "en": "Try again",
+      "es": "Inténtelo de nuevo",
+      "qu": "Inténtelo de nuevo",
+      "pt": "Inténtelo de nuevo",
+      "fr": "Réessayer",
+      "nl": "Probeer het nog eens"
+    },
+    "sale_session_expired_alert": {
+      "en": "Sale session expired",
+      "es": "La sesión de venta expiró",
+      "qu": "La sesión de venta expiró",
+      "pt": "La sesión de venta expiró",
+      "fr": "La session de vente a expiré",
+      "nl": "Verkoopsessie verlopen"
+    },
+    "sale_session_expired_detail": {
+      "en": "Your session has expired, please start a new reservation.",
+      "es": "Su sesión ha expirado, inicie una nueva reserva.",
+      "qu": "Su sesión ha expirado, inicie una nueva reserva.",
+      "pt": "Su sesión ha expirado, inicie una nueva reserva.",
+      "fr": "Votre session a expiré, veuillez commencer une nouvelle réservation.",
+      "nl": "Uw sessie is verlopen, begin dan een nieuwe reservering."
+    },
+    "payment_already_processed": {
+      "en": "Payment already processed",
+      "es": "Pago ya procesado",
+      "qu": "Pago ya procesado",
+      "pt": "Pago ya procesado",
+      "fr": "Paiement déjà traité",
+      "nl": "Betaling al verwerkt"
+    },
+    "payment_already_processed_detail": {
+      "en": "Your payment has already been processed, please start a new reservation.",
+      "es": "Su pago ya ha sido procesado, inicie una nueva reserva.",
+      "qu": "Su pago ya ha sido procesado, inicie una nueva reserva.",
+      "pt": "Su pago ya ha sido procesado, inicie una nueva reserva.",
+      "fr": "Votre paiement a déjà été traité, veuillez commencer une nouvelle réservation.",
+      "nl": "Uw betaling is al verwerkt, begin dan een nieuwe reservering."
+    },
+    "accept": {
+      "en": "Accept",
+      "es": "Aceptar",
+      "qu": "Aceptar",
+      "pt": "Aceptar",
+      "fr": "Accepter",
+      "nl": "Accepteren"
+    },
+    "agency": {
+      "en": "Agency",
+      "es": "Agencia",
+      "qu": "Agencia",
+      "pt": "Agencia",
+      "fr": "Agence",
+      "nl": "Agentschap"
+    },
+    "address": {
+      "en": "Address",
+      "es": "Direción",
+      "qu": "Direción",
+      "pt": "Direción",
+      "fr": "Adresse",
+      "nl": "Adres"
+    },
+    "no_internet_connection": {
+      "en": "No internet connection",
+      "es": "Sin conexión a internet",
+      "qu": "Sin conexión a internet",
+      "pt": "Sin conexión a internet",
+      "fr": "Pas de connexion Internet",
+      "nl": "Geen internet verbinding"
+    },
+    "no_internet_connection_description": {
+      "en": "Check your network cables, modem, and router. Reconnect to Wi-Fi.",
+      "es": "Comprobar el cable de red, módem y el enrutador. Reconectarse a Wi-Fi.",
+      "qu": "Comprobar el cable de red, módem y el enrutador. Reconectarse a Wi-Fi.",
+      "pt": "Comprobar el cable de red, módem y el enrutador. Reconectarse a Wi-Fi.",
+      "fr": "Vérifier votre câble réseau, modem ou routeur. Reconnecter-vous au Wi-Fi.",
+      "nl": "Controleer uw netwerkkabel, modem of router. Maak opnieuw verbinding met wifi."
+    },
+    "maintenance": {
+      "title": {
+        "en": "System maintenance",
+        "es": "Mantenimiento del sistema",
+        "qu": "Mantenimiento del sistema",
+        "pt": "Mantenimiento del sistema",
+        "fr": "Entretien du système",
+        "nl": "Systeem onderhoud"
+      },
+      "description": {
+        "en": "The system is under maintenance. Please try again later...",
+        "es": "El sistema está en mantenimiento. Por favor, inténtelo de nuevo más tarde...",
+        "qu": "El sistema está en mantenimiento. Por favor, inténtelo de nuevo más tarde...",
+        "pt": "El sistema está en mantenimiento. Por favor, inténtelo de nuevo más tarde...",
+        "fr": "Le système est en maintenance. Veuillez réessayer plus tard...",
+        "nl": "Het systeem is in onderhoud. Probeer het later nog eens...."
+      }
+    },
+    "error_cart": {
+      "en": "An error occurred",
+      "es": "Ocurrió un error",
+      "qu": "Ocurrió un error",
+      "pt": "Ocurrió un error",
+      "fr": "Une erreur s'est produite",
+      "nl": "Een fout opgetreden"
+    },
+    "error_cart_description": {
+      "en": "Please try again later...",
+      "es": "Por favor, inténtelo de nuevo más tarde...",
+      "qu": "Por favor, inténtelo de nuevo más tarde...",
+      "pt": "Por favor, inténtelo de nuevo más tarde...",
+      "fr": "Veuillez réessayer plus tard...",
+      "nl": "Probeer opnieuw later..."
+    },
+    "cancel": {
+      "en": "Cancel",
+      "es": "Cancelar",
+      "qu": "Cancelar",
+      "pt": "Cancelar",
+      "fr": "Annuler",
+      "nl": "Annuleren"
+    },
+    "search": {
+      "en": "Search",
+      "es": "Buscar",
+      "qu": "Buscar",
+      "pt": "Buscar",
+      "fr": "Chercher",
+      "nl": "Zoeken"
+    },
+    "repeat_password": {
+      "en": "Repeat password",
+      "es": "Repetir contraseña",
+      "qu": "Repetir contraseña",
+      "pt": "Repetir contraseña",
+      "fr": "Répéter le mot de passe",
+      "nl": "Herhaal wachtwoord"
+    },
+    "confirm": {
+      "en": "Confirm",
+      "es": "Confirmar",
+      "qu": "Confirmar",
+      "pt": "Confirmar",
+      "fr": "Confirmer",
+      "nl": "Bevestigen"
+    },
+    "close": {
+      "en": "Close",
+      "es": "Cerrar",
+      "qu": "Cerrar",
+      "pt": "Cerrar",
+      "fr": "Proche",
+      "nl": "Dichtbij"
+    }
+  },
+  "voucher": {
+    "payment_error_title": {
+      "en": "Payment error",
+      "es": "Error en pago",
+      "qu": "Error en pago",
+      "pt": "Error en pago",
+      "fr": "Erreur de paiement",
+      "nl": "Betalingsfout"
+    },
+    "payment_error_description": {
+      "en": "There was an error making the payment.",
+      "es": "Hubo un error al realizar el pago.",
+      "qu": "Hubo un error al realizar el pago.",
+      "pt": "Hubo un error al realizar el pago.",
+      "fr": "Une erreur s'est produite lors du paiement.",
+      "nl": "Er is een fout opgetreden bij het uitvoeren van de betaling."
+    },
+    "payment_status_description": {
+      "en": "Your payment is being processed for your confirmation",
+      "es": "Su pago se está procesando para su confirmación",
+      "qu": "Su pago se está procesando para su confirmación",
+      "pt": "Su pago se está procesando para su confirmación",
+      "fr": "Votre paiement est en cours de traitement pour votre confirmation",
+      "nl": "Uw betaling wordt verwerkt voor uw bevestiging"
+    },
+    "title_error_payment": {
+      "en": "An error has occurred with the payment!",
+      "es": "¡Ha ocurrido un error con el pago!",
+      "qu": "¡Ha ocurrido un error con el pago!",
+      "pt": "¡Ha ocurrido un error con el pago!",
+      "fr": "Une erreur s'est produite avec le paiement!",
+      "nl": "Er is een fout opgetreden bij de betaling!"
+    },
+    "description_error_payment": {
+      "en": "The payment was not successful, please try again.",
+      "es": "El pago no se ha realizado correctamente, por favor inténtelo de nuevo.",
+      "qu": "El pago no se ha realizado correctamente, por favor inténtelo de nuevo.",
+      "pt": "El pago no se ha realizado correctamente, por favor inténtelo de nuevo.",
+      "fr": "Le paiement a échoué, veuillez réessayer.",
+      "nl": "De betaling is niet gelukt, probeer het opnieuw."
+    },
+    "thanks_success_payment": {
+      "en": "Thanks",
+      "es": "Gracias",
+      "qu": "Gracias",
+      "pt": "Gracias",
+      "fr": "Merci",
+      "nl": "Dank"
+    },
+    "payment_success_title": {
+      "en": "The transaction was successful!",
+      "es": "¡La transacción fue exitosa!",
+      "qu": "¡La transacción fue exitosa!",
+      "pt": "¡La transacción fue exitosa!",
+      "fr": "La transaction s'est effectuée avec succès!",
+      "nl": "De transactie is gelukt!"
+    },
+    "payment_success_description": {
+      "en": "The voucher will be sent to",
+      "es": "La boleta se enviará a",
+      "qu": "La boleta se enviará a",
+      "pt": "La boleta se enviará a",
+      "fr": "Le voucher sera envoyé à",
+      "nl": "De bon wordt verzonden naar"
+    },
+    "payment_success_note": {
+      "en": "If there is an error with this email, call us at",
+      "es": "Si hay un error con este correo, llámenos al",
+      "qu": "Si hay un error con este correo, llámenos al",
+      "pt": "Si hay un error con este correo, llámenos al",
+      "fr": "S'il y a une erreur avec cet email, appelez-nous au",
+      "nl": "Als er een fout is met deze e-mail, bel ons dan op"
+    },
+    "return_homepage": {
+      "en": "Return to homepage",
+      "es": "Volver a la página de inicio",
+      "qu": "Volver a la página de inicio",
+      "pt": "Volver a la página de inicio",
+      "fr": "Retour à la page d'accueil",
+      "nl": "Keer terug naar de start pagina"
+    },
+    "return_payment_page": {
+      "en": "Return to payment page",
+      "es": "Volver a la página de pago",
+      "qu": "Volver a la página de pago",
+      "pt": "Volver a la página de pago",
+      "fr": "Retour à la page de paiement",
+      "nl": "Terug naar betaalpagina"
+    },
+    "total_seats": {
+      "en": "Total seats",
+      "es": "Total asientos",
+      "qu": "Total asientos",
+      "pt": "Total asientos",
+      "fr": "Total des sièges",
+      "nl": "Totaal zetels"
+    },
+    "seats": {
+      "en": "Seats",
+      "es": "Asientos",
+      "qu": "Asientos",
+      "pt": "Asientos",
+      "fr": "Sièges",
+      "nl": "Zetels"
+    },
+    "seat": {
+      "en": "Seat",
+      "es": "Asiento",
+      "qu": "Asiento",
+      "pt": "Asiento",
+      "fr": "Siège",
+      "nl": "Zetel"
+    },
+    "service": {
+      "en": "Service",
+      "es": "Servicio",
+      "qu": "Servicio",
+      "pt": "Servicio",
+      "fr": "Service",
+      "nl": "Service"
+    },
+    "print": {
+      "en": "Print",
+      "es": "Imprimir",
+      "qu": "Imprimir",
+      "pt": "Imprimir",
+      "fr": "Imprimer",
+      "nl": "Afdrukken"
+    },
+    "outbound_travel": {
+      "en": "Outbound travel",
+      "es": "Viaje de ida",
+      "qu": "Viaje de ida",
+      "pt": "Viaje de ida",
+      "fr": "Voyage aller",
+      "nl": "Uitgaande reis"
+    },
+    "return_travel": {
+      "en": "Return travel",
+      "es": "Viaje de retorno",
+      "qu": "Viaje de retorno",
+      "pt": "Viaje de retorno",
+      "fr": "Voyage retour",
+      "nl": "Retour reis"
+    },
+    "discount": {
+      "en": "Discount",
+      "es": "Descuento",
+      "qu": "Descuento",
+      "pt": "Descuento",
+      "fr": "Réduction",
+      "nl": "Korting"
+    },
+    "purchase_number": {
+      "en": "Purchase number",
+      "es": "Número de compra",
+      "qu": "Número de compra",
+      "pt": "Número de compra",
+      "fr": "Numéro d'achat",
+      "nl": "Aankoopnummer"
+    },
+    "card_number": {
+      "en": "Card number",
+      "es": "Número de tarjeta",
+      "qu": "Número de tarjeta",
+      "pt": "Número de tarjeta",
+      "fr": "Numéro de carte",
+      "nl": "Kaartnummer"
+    }
+  },
+  "api_code": {
+    "default": {
+      "title": {
+        "en": "An error occurred!",
+        "es": "Ha ocurrido un error!",
+        "qu": "Ha ocurrido un error!",
+        "pt": "Ha ocurrido un error!",
+        "fr": "Une erreur s'est produite!",
+        "nl": "Een fout is opgetreden!"
+      },
+      "description": {
+        "en": "Please try again later...",
+        "es": "Por favor, inténtelo de nuevo más tarde...",
+        "qu": "Por favor, inténtelo de nuevo más tarde...",
+        "pt": "Por favor, inténtelo de nuevo más tarde...",
+        "fr": "Veuillez réessayer plus tard...",
+        "nl": "Probeer opnieuw later..."
+      }
+    },
+    "sign-up/user_exists": {
+      "title": {
+        "en": "User already exists!",
+        "es": "El usuario ya existe!",
+        "qu": "El usuario ya existe!",
+        "pt": "El usuario ya existe!",
+        "fr": "L'utilisateur existe déjà!",
+        "nl": "Gebruiker al bestaat!"
+      },
+      "description": {
+        "en": "The specified user already exists",
+        "es": "El usuario especificado ya existe",
+        "qu": "El usuario especificado ya existe",
+        "pt": "El usuario especificado ya existe",
+        "fr": "L'utilisateur spécifié existe déjà",
+        "nl": "De opgegeven gebruiker al bestaat"
+      }
+    },
+    "sign-in/user_not_found": {
+      "title": {
+        "en": "User not found!",
+        "es": "Usuario no encontrado!",
+        "qu": "Usuario no encontrado!",
+        "pt": "Usuario no encontrado!",
+        "fr": "Utilisateur non trouvé!",
+        "nl": "Gebruiker niet gevonden!"
+      },
+      "description": {
+        "en": "The specified user doesn't exist.",
+        "es": "El usuario especificado no existe.",
+        "qu": "El usuario especificado no existe.",
+        "pt": "El usuario especificado no existe.",
+        "fr": "L'utilisateur spécifié n'existe pas.",
+        "nl": "De opgegeven gebruiker bestaat niet."
+      }
+    },
+    "sign-in/incorrect_password": {
+      "title": {
+        "en": "Incorrect user or password!",
+        "es": "Usuario o contraseña incorrecta!",
+        "qu": "Usuario o contraseña incorrecta!",
+        "pt": "Usuario o contraseña incorrecta!",
+        "fr": "Utilisateur ou mot de passe incorrec!",
+        "nl": "Onjuiste gebruiker of wachtwoord!"
+      },
+      "description": {
+        "en": "Please try another account or password",
+        "es": "Intente con otra cuenta o contraseña",
+        "qu": "Intente con otra cuenta o contraseña",
+        "pt": "Intente con otra cuenta o contraseña",
+        "fr": "Veuillez essayer un autre compte ou mot de passe",
+        "nl": "Probeer een ander account of wachtwoord"
+      }
+    },
+    "sale-session/sale_expired": {
+      "title": {
+        "en": "Sale session expired!",
+        "es": "La sesión de venta expiró!",
+        "qu": "La sesión de venta expiró!",
+        "pt": "La sesión de venta expiró!",
+        "fr": "La session de vente a expiré!",
+        "nl": "Verkoopsessie verlopen!"
+      },
+      "description": {
+        "en": "User's sale session has expired",
+        "es": "La sesión de venta del usuario ha expirado",
+        "qu": "La sesión de venta del usuario ha expirado",
+        "pt": "La sesión de venta del usuario ha expirado",
+        "fr": "La session de vente de l'utilisateur a expiré",
+        "nl": "User's verkoop sessie is verlopen"
+      }
+    },
+    "sale-session/sale_completed": {
+      "title": {
+        "en": "Sale completed!",
+        "es": "Venta completada!",
+        "qu": "Venta completada!",
+        "pt": "Venta completada!",
+        "fr": "Vente terminée!",
+        "nl": "Verkoop afgerond!"
+      },
+      "description": {
+        "en": "The sale has already been completed",
+        "es": "La venta ya se ha completado",
+        "qu": "La venta ya se ha completado",
+        "pt": "La venta ya se ha completado",
+        "fr": "La vente a déjà été terminée",
+        "nl": "De verkoop is al afgerond"
+      }
+    },
+    "seats/seat_not_locked": {
+      "title": {
+        "en": "Seats not available!",
+        "es": "Asientos no disponibles!",
+        "qu": "Asientos no disponibles!",
+        "pt": "Asientos no disponibles!",
+        "fr": "Places non disponibles!",
+        "nl": "Zitplaatsen niet beschikbaar!"
+      },
+      "description": {
+        "en": "Some of the selected seats are no longer available, please select other seats",
+        "es": "Algunos de los asientos seleccionados ya no están disponibles, selecciona otros asientos",
+        "qu": "Algunos de los asientos seleccionados ya no están disponibles, selecciona otros asientos",
+        "pt": "Algunos de los asientos seleccionados ya no están disponibles, selecciona otros asientos",
+        "fr": "Certains des sièges sélectionnés ne sont plus disponibles, veuillez sélectionner d'autres sièges",
+        "nl": "Sommige van de geselecteerde stoelen zijn niet meer beschikbaar, selecteer andere stoelen"
+      }
+    },
+    "recover-account/email_not_found": {
+      "title": {
+        "en": "Email not found!",
+        "es": "Correo electrónico no encontrado!",
+        "qu": "Correo electrónico no encontrado!",
+        "pt": "Correo electrónico no encontrado!",
+        "fr": "Email non trouvé!",
+        "nl": "E-mail niet gevonden!"
+      },
+      "description": {
+        "en": "Enter a valid email address",
+        "es": "Ingrese un correo electrónico válido",
+        "qu": "Ingrese un correo electrónico válido",
+        "pt": "Ingrese un correo electrónico válido",
+        "fr": "Entrez une adresse e-mail valide",
+        "nl": "Voer een geldig e-mailadres in"
+      }
+    },
+    "user/session_expired": {
+      "title": {
+        "en": "User session expired!",
+        "es": "Sesión del usuario expirada!",
+        "qu": "Sesión del usuario expirada!",
+        "pt": "Sesión del usuario expirada!",
+        "fr": "La session utilisateur a expiré!",
+        "nl": "Gebruikerssessie verlopen!"
+      },
+      "description": {
+        "en": "Please log in again",
+        "es": "Por favor, inicie sesión nuevamente",
+        "qu": "Por favor, inicie sesión nuevamente",
+        "pt": "Por favor, inicie sesión nuevamente",
+        "fr": "Veuillez vous reconnecter",
+        "nl": "Log alsjeblieft nogmaals in"
+      }
+    },
+    "gift-card/card_error": {
+      "title": {
+        "en": "Gift card error!",
+        "es": "Error de tarjeta de regalo!",
+        "qu": "Error de tarjeta de regalo!",
+        "pt": "Error de tarjeta de regalo!",
+        "fr": "Erreur de carte-cadeau!",
+        "nl": "Fout met cadeaubon!"
+      },
+      "description": {
+        "en": "Check the data entered or the status of the card",
+        "es": "Verifique los datos ingresados o el estado de la tarjeta",
+        "qu": "Verifique los datos ingresados o el estado de la tarjeta",
+        "pt": "Verifique los datos ingresados o el estado de la tarjeta",
+        "fr": "Vérifier les données saisies ou l'état de la carte",
+        "nl": "Controleer de ingevoerde gegevens of de status van de kaart"
+      }
+    },
+    "gift-card/insufficient_balance": {
+      "title": {
+        "en": "Insufficient balance!",
+        "es": "Saldo insuficiente!",
+        "qu": "Saldo insuficiente!",
+        "pt": "Saldo insuficiente!",
+        "fr": "Solde insuffisant!",
+        "nl": "Onvoldoende saldo!"
+      },
+      "description": {
+        "en": "Enter a valid gift card",
+        "es": "Verifique el saldo de la tarjeta de regalo",
+        "qu": "Verifique el saldo de la tarjeta de regalo",
+        "pt": "Verifique el saldo de la tarjeta de regalo",
+        "fr": "Vérifier le solde de la carte cadeau",
+        "nl": "Controleer het saldo van de cadeaukaart"
+      }
+    },
+    "gift-card/invalid_card": {
+      "title": {
+        "en": "Invalid gift card!",
+        "es": "Tarjeta de regalo inválida!",
+        "qu": "Tarjeta de regalo inválida!",
+        "pt": "Tarjeta de regalo inválida!",
+        "fr": "Carte cadeau invalide!",
+        "nl": "Ongeldige cadeaubon!"
+      },
+      "description": {
+        "en": "Verify the number or security code of the gift card",
+        "es": "Verifique el número o código de seguridad de la tarjeta de regalo",
+        "qu": "Verifique el número o código de seguridad de la tarjeta de regalo",
+        "pt": "Verifique el número o código de seguridad de la tarjeta de regalo",
+        "fr": "Vérifiez le numéro ou le code de sécurité de la carte-cadeau",
+        "nl": "Controleer het nummer of de beveiligingscode van de cadeaukaart"
+      }
+    }
+  },
+  "notification": {
+    "please_try_again": {
+      "en": "Please try again later...",
+      "es": "Por favor, inténtelo de nuevo más tarde...",
+      "qu": "Por favor, inténtelo de nuevo más tarde...",
+      "pt": "Por favor, inténtelo de nuevo más tarde...",
+      "fr": "Veuillez réessayer plus tard...",
+      "nl": "Probeer opnieuw later..."
+    },
+    "error_occurred": {
+      "en": "An error occurred!",
+      "es": "Ha ocurrido un error!",
+      "qu": "Ha ocurrido un error!",
+      "pt": "Ha ocurrido un error!",
+      "fr": "Une erreur s'est produite!",
+      "nl": "Een fout is opgetreden!"
+    },
+    "successful_operation": {
+      "en": "Successful operation!",
+      "es": "¡Operación exitosa!",
+      "qu": "¡Operación exitosa!",
+      "pt": "¡Operación exitosa!",
+      "fr": "Opération réussie !",
+      "nl": "Succesvolle operatie!"
+    },
+    "saved_successfully": {
+      "en": "Saved successfully!",
+      "es": "¡Guardado exitosamente!",
+      "qu": "¡Guardado exitosamente!",
+      "pt": "¡Guardado exitosamente!",
+      "fr": "Enregistré avec succès!",
+      "nl": "Met succes opgeslagen!"
+    }
+  },
+  "account": {
+    "edit_profile": {
+      "en": "Edit profile",
+      "es": "Editar perfil",
+      "qu": "Editar perfil",
+      "pt": "Editar perfil",
+      "fr": "Editer profil",
+      "nl": "Bewerk profiel"
+    },
+    "save": {
+      "en": "Save",
+      "es": "Guardar",
+      "qu": "Guardar",
+      "pt": "Guardar",
+      "fr": "Sauver",
+      "nl": "Opslaan"
+    },
+    "hello": {
+      "en": "Hello",
+      "es": "Hola",
+      "qu": "Hola",
+      "pt": "Hola",
+      "fr": "Bonjour",
+      "nl": "Hallo"
+    },
+    "my_bookings": {
+      "en": "My bookings",
+      "es": "Mis reservas",
+      "qu": "Mis reservas",
+      "pt": "Mis reservas",
+      "fr": "Mes réservations",
+      "nl": "Mijn boekingen"
+    },
+    "no_trips": {
+      "en": "No bookings found.",
+      "es": "No se encontraron reservas.",
+      "qu": "No se encontraron reservas.",
+      "pt": "No se encontraron reservas.",
+      "fr": "Aucune réservation trouvée.",
+      "nl": "Geen boekingen gevonden."
+    },
+    "new_search": {
+      "en": "New search",
+      "es": "Nueva búsqueda",
+      "qu": "Nueva búsqueda",
+      "pt": "Nueva búsqueda",
+      "fr": "Nouvelle recherche",
+      "nl": "Nieuwe zoekopdracht"
+    },
+    "edit_password": {
+      "en": "Edit password",
+      "es": "Editar contraseña",
+      "qu": "Editar contraseña",
+      "pt": "Editar contraseña",
+      "fr": "Editer mot de passe",
+      "nl": "Paswoord bewerken"
+    },
+    "old": {
+      "en": "Old",
+      "es": "Antiguos",
+      "qu": "Antiguos",
+      "pt": "Antiguos",
+      "fr": "Passés",
+      "nl": "Ouden"
+    },
+    "new": {
+      "en": "New",
+      "es": "Nuevos",
+      "qu": "Nuevos",
+      "pt": "Nuevos",
+      "fr": "Nouveaux",
+      "nl": "Nieuwen"
+    }
+  },
+  "countries": {
+    "AF": {
+      "en": "Afghanistan",
+      "es": "Afganistán",
+      "qu": "Afganistán",
+      "pt": "Afganistán",
+      "fr": "Afghanistan",
+      "nl": "Afghanistan"
+    },
+    "AX": {
+      "en": "Åland Islands",
+      "es": "Åland",
+      "qu": "Åland",
+      "pt": "Åland",
+      "fr": "Îles Åland",
+      "nl": "Åland"
+    },
+    "AL": {
+      "en": "Albania",
+      "es": "Albania",
+      "qu": "Albania",
+      "pt": "Albania",
+      "fr": "Albanie",
+      "nl": "Albanië"
+    },
+    "DE": {
+      "en": "Germany",
+      "es": "Alemania",
+      "qu": "Alemania",
+      "pt": "Alemania",
+      "fr": "Allemagne",
+      "nl": "Duitsland"
+    },
+    "AD": {
+      "en": "Andorra",
+      "es": "Andorra",
+      "qu": "Andorra",
+      "pt": "Andorra",
+      "fr": "Andorre",
+      "nl": "Andorra"
+    },
+    "AO": {
+      "en": "Angola",
+      "es": "Angola",
+      "qu": "Angola",
+      "pt": "Angola",
+      "fr": "Angola",
+      "nl": "Angola"
+    },
+    "AI": {
+      "en": "Anguilla",
+      "es": "Anguila",
+      "qu": "Anguila",
+      "pt": "Anguila",
+      "fr": "Anguilla",
+      "nl": "Anguilla"
+    },
+    "AQ": {
+      "en": "Antarctica",
+      "es": "Antártida",
+      "qu": "Antártida",
+      "pt": "Antártida",
+      "fr": "Antarctique",
+      "nl": "Antarctica"
+    },
+    "AG": {
+      "en": "Antigua and Barbuda",
+      "es": "Antigua y Barbuda",
+      "qu": "Antigua y Barbuda",
+      "pt": "Antigua y Barbuda",
+      "fr": "Antigua-et-Barbuda",
+      "nl": "Antigua en Barbuda"
+    },
+    "SA": {
+      "en": "Saudi Arabia",
+      "es": "Arabia Saudita",
+      "qu": "Arabia Saudita",
+      "pt": "Arabia Saudita",
+      "fr": "Arabie saoudite",
+      "nl": "Saoedi-Arabië"
+    },
+    "DZ": {
+      "en": "Algeria",
+      "es": "Argelia",
+      "qu": "Argelia",
+      "pt": "Argelia",
+      "fr": "Algérie",
+      "nl": "Algerije"
+    },
+    "AR": {
+      "en": "Argentina",
+      "es": "Argentina",
+      "qu": "Argentina",
+      "pt": "Argentina",
+      "fr": "Argentine",
+      "nl": "Argentinië"
+    },
+    "AM": {
+      "en": "Armenia",
+      "es": "Armenia",
+      "qu": "Armenia",
+      "pt": "Armenia",
+      "fr": "Arménie",
+      "nl": "Armenië"
+    },
+    "AW": {
+      "en": "Aruba",
+      "es": "Aruba",
+      "qu": "Aruba",
+      "pt": "Aruba",
+      "fr": "Aruba",
+      "nl": "Aruba"
+    },
+    "AU": {
+      "en": "Australia",
+      "es": "Australia",
+      "qu": "Australia",
+      "pt": "Australia",
+      "fr": "Australie",
+      "nl": "Australië"
+    },
+    "AT": {
+      "en": "Austria",
+      "es": "Austria",
+      "qu": "Austria",
+      "pt": "Austria",
+      "fr": "Autriche",
+      "nl": "Oostenrijk"
+    },
+    "AZ": {
+      "en": "Azerbaijan",
+      "es": "Azerbaiyán",
+      "qu": "Azerbaiyán",
+      "pt": "Azerbaiyán",
+      "fr": "Azerbaïdjan",
+      "nl": "Azerbeidzjan"
+    },
+    "BS": {
+      "en": "Bahamas",
+      "es": "Bahamas",
+      "qu": "Bahamas",
+      "pt": "Bahamas",
+      "fr": "Bahamas",
+      "nl": "Bahama's"
+    },
+    "BD": {
+      "en": "Bangladesh",
+      "es": "Bangladés",
+      "qu": "Bangladés",
+      "pt": "Bangladés",
+      "fr": "Bangladesh",
+      "nl": "Bangladesh"
+    },
+    "BB": {
+      "en": "Barbados",
+      "es": "Barbados",
+      "qu": "Barbados",
+      "pt": "Barbados",
+      "fr": "Barbade",
+      "nl": "Barbados"
+    },
+    "BH": {
+      "en": "Bahrain",
+      "es": "Baréin",
+      "qu": "Baréin",
+      "pt": "Baréin",
+      "fr": "Bahreïn",
+      "nl": "Bahrein"
+    },
+    "BE": {
+      "en": "Belgium",
+      "es": "Bélgica",
+      "qu": "Bélgica",
+      "pt": "Bélgica",
+      "fr": "Belgique",
+      "nl": "België"
+    },
+    "BZ": {
+      "en": "Belize",
+      "es": "Belice",
+      "qu": "Belice",
+      "pt": "Belice",
+      "fr": "Belize",
+      "nl": "Belize"
+    },
+    "BJ": {
+      "en": "Benin",
+      "es": "Benín",
+      "qu": "Benín",
+      "pt": "Benín",
+      "fr": "Bénin",
+      "nl": "Benin"
+    },
+    "BM": {
+      "en": "Bermuda",
+      "es": "Bermudas",
+      "qu": "Bermudas",
+      "pt": "Bermudas",
+      "fr": "Bermudes",
+      "nl": "Bermuda"
+    },
+    "BY": {
+      "en": "Belarus",
+      "es": "Bielorrusia",
+      "qu": "Bielorrusia",
+      "pt": "Bielorrusia",
+      "fr": "Biélorussie",
+      "nl": "Wit-Rusland"
+    },
+    "BO": {
+      "en": "Bolivia",
+      "es": "Bolivia",
+      "qu": "Bolivia",
+      "pt": "Bolivia",
+      "fr": "Bolivie",
+      "nl": "Bolivia"
+    },
+    "BQ": {
+      "en": "Bonaire, Sint Eustatius and Saba",
+      "es": "Bonaire, San Eustaquio y Saba",
+      "qu": "Bonaire, San Eustaquio y Saba",
+      "pt": "Bonaire, San Eustaquio y Saba",
+      "fr": "Pays-Bas caribéens",
+      "nl": "Caribisch Nederland"
+    },
+    "BA": {
+      "en": "Bosnia and Herzegovina",
+      "es": "Bosnia y Herzegovina",
+      "qu": "Bosnia y Herzegovina",
+      "pt": "Bosnia y Herzegovina",
+      "fr": "Bosnie-Herzégovine",
+      "nl": "Bosnië en Herzegovina"
+    },
+    "BW": {
+      "en": "Botswana",
+      "es": "Botsuana",
+      "qu": "Botsuana",
+      "pt": "Botsuana",
+      "fr": "Botswana",
+      "nl": "Botswana"
+    },
+    "BR": {
+      "en": "Brazil",
+      "es": "Brasil",
+      "qu": "Brasil",
+      "pt": "Brasil",
+      "fr": "Brésil",
+      "nl": "Brazilië"
+    },
+    "BN": {
+      "en": "Brunei Darussalam",
+      "es": "Brunéi",
+      "qu": "Brunéi",
+      "pt": "Brunéi",
+      "fr": "Brunei",
+      "nl": "Brunei"
+    },
+    "BG": {
+      "en": "Bulgaria",
+      "es": "Bulgaria",
+      "qu": "Bulgaria",
+      "pt": "Bulgaria",
+      "fr": "Bulgarie",
+      "nl": "Bulgarije"
+    },
+    "BF": {
+      "en": "Burkina Faso",
+      "es": "Burkina Faso",
+      "qu": "Burkina Faso",
+      "pt": "Burkina Faso",
+      "fr": "Burkina Faso",
+      "nl": "Burkina Faso"
+    },
+    "BI": {
+      "en": "Burundi",
+      "es": "Burundi",
+      "qu": "Burundi",
+      "pt": "Burundi",
+      "fr": "Burundi",
+      "nl": "Burundi"
+    },
+    "BT": {
+      "en": "Bhutan",
+      "es": "Bután",
+      "qu": "Bután",
+      "pt": "Bután",
+      "fr": "Bhoutan",
+      "nl": "Bhutan"
+    },
+    "CV": {
+      "en": "Cabo Verde",
+      "es": "Cabo Verde",
+      "qu": "Cabo Verde",
+      "pt": "Cabo Verde",
+      "fr": "Cap-Vert",
+      "nl": "Kaapverdië"
+    },
+    "KH": {
+      "en": "Cambodia",
+      "es": "Camboya",
+      "qu": "Camboya",
+      "pt": "Camboya",
+      "fr": "Cambodge",
+      "nl": "Cambodja"
+    },
+    "CM": {
+      "en": "Cameroon",
+      "es": "Camerún",
+      "qu": "Camerún",
+      "pt": "Camerún",
+      "fr": "Cameroun",
+      "nl": "Kameroen"
+    },
+    "CA": {
+      "en": "Canada",
+      "es": "Canadá",
+      "qu": "Canadá",
+      "pt": "Canadá",
+      "fr": "Canada",
+      "nl": "Canada"
+    },
+    "QA": {
+      "en": "Qatar",
+      "es": "Catar",
+      "qu": "Catar",
+      "pt": "Catar",
+      "fr": "Qatar",
+      "nl": "Qatar"
+    },
+    "TD": {
+      "en": "Chad",
+      "es": "Chad",
+      "qu": "Chad",
+      "pt": "Chad",
+      "fr": "Tchad",
+      "nl": "Tsjaad"
+    },
+    "CL": {
+      "en": "Chile",
+      "es": "Chile",
+      "qu": "Chile",
+      "pt": "Chile",
+      "fr": "Chili",
+      "nl": "Chili"
+    },
+    "CN": {
+      "en": "China",
+      "es": "China",
+      "qu": "China",
+      "pt": "China",
+      "fr": "Chine",
+      "nl": "China"
+    },
+    "CY": {
+      "en": "Cyprus",
+      "es": "Chipre",
+      "qu": "Chipre",
+      "pt": "Chipre",
+      "fr": "Chypre",
+      "nl": "Cyprus"
+    },
+    "CO": {
+      "en": "Colombia",
+      "es": "Colombia",
+      "qu": "Colombia",
+      "pt": "Colombia",
+      "fr": "Colombie",
+      "nl": "Colombia"
+    },
+    "KM": {
+      "en": "Comoros",
+      "es": "Comoras",
+      "qu": "Comoras",
+      "pt": "Comoras",
+      "fr": "Comores",
+      "nl": "Comoren"
+    },
+    "KP": {
+      "en": "Korea (Democratic People's Republic of)",
+      "es": "Corea del Norte",
+      "qu": "Corea del Norte",
+      "pt": "Corea del Norte",
+      "fr": "Corée du Nord",
+      "nl": "Noord-Korea"
+    },
+    "KR": {
+      "en": "Korea, Republic of",
+      "es": "Corea del Sur",
+      "qu": "Corea del Sur",
+      "pt": "Corea del Sur",
+      "fr": "Corée du Sud",
+      "nl": "Zuid-Korea"
+    },
+    "CI": {
+      "en": "Côte d'Ivoire",
+      "es": "Costa de Marfil",
+      "qu": "Costa de Marfil",
+      "pt": "Costa de Marfil",
+      "fr": "Côte d'Ivoire",
+      "nl": "Ivoorkust"
+    },
+    "CR": {
+      "en": "Costa Rica",
+      "es": "Costa Rica",
+      "qu": "Costa Rica",
+      "pt": "Costa Rica",
+      "fr": "Costa Rica",
+      "nl": "Costa Rica"
+    },
+    "HR": {
+      "en": "Croatia",
+      "es": "Croacia",
+      "qu": "Croacia",
+      "pt": "Croacia",
+      "fr": "Croatie",
+      "nl": "Kroatië"
+    },
+    "CU": {
+      "en": "Cuba",
+      "es": "Cuba",
+      "qu": "Cuba",
+      "pt": "Cuba",
+      "fr": "Cuba",
+      "nl": "Cuba"
+    },
+    "CW": {
+      "en": "Curaçao",
+      "es": "Curazao",
+      "qu": "Curazao",
+      "pt": "Curazao",
+      "fr": "Curaçao",
+      "nl": "Curaçao"
+    },
+    "DK": {
+      "en": "Denmark",
+      "es": "Dinamarca",
+      "qu": "Dinamarca",
+      "pt": "Dinamarca",
+      "fr": "Danemark",
+      "nl": "Denemarken"
+    },
+    "DM": {
+      "en": "Dominica",
+      "es": "Dominica",
+      "qu": "Dominica",
+      "pt": "Dominica",
+      "fr": "Dominique",
+      "nl": "Dominica"
+    },
+    "EC": {
+      "en": "Ecuador",
+      "es": "Ecuador",
+      "qu": "Ecuador",
+      "pt": "Ecuador",
+      "fr": "Équateur",
+      "nl": "Ecuador"
+    },
+    "EG": {
+      "en": "Egypt",
+      "es": "Egipto",
+      "qu": "Egipto",
+      "pt": "Egipto",
+      "fr": "Égypte",
+      "nl": "Egypte"
+    },
+    "SV": {
+      "en": "El Salvador",
+      "es": "El Salvador",
+      "qu": "El Salvador",
+      "pt": "El Salvador",
+      "fr": "Salvador",
+      "nl": "El Salvador"
+    },
+    "AE": {
+      "en": "United Arab Emirates",
+      "es": "Emiratos Árabes Unidos",
+      "qu": "Emiratos Árabes Unidos",
+      "pt": "Emiratos Árabes Unidos",
+      "fr": "Émirats arabes unis",
+      "nl": "Verenigde Arabische Emiraten"
+    },
+    "ER": {
+      "en": "Eritrea",
+      "es": "Eritrea",
+      "qu": "Eritrea",
+      "pt": "Eritrea",
+      "fr": "Érythrée",
+      "nl": "Eritrea"
+    },
+    "SK": {
+      "en": "Slovakia",
+      "es": "Eslovaquia",
+      "qu": "Eslovaquia",
+      "pt": "Eslovaquia",
+      "fr": "Slovaquie",
+      "nl": "Slowakije"
+    },
+    "SI": {
+      "en": "Slovenia",
+      "es": "Eslovenia",
+      "qu": "Eslovenia",
+      "pt": "Eslovenia",
+      "fr": "Slovénie",
+      "nl": "Slovenië"
+    },
+    "ES": {
+      "en": "Spain",
+      "es": "España",
+      "qu": "España",
+      "pt": "España",
+      "fr": "Espagne",
+      "nl": "Spanje"
+    },
+    "US": {
+      "en": "United States of America",
+      "es": "Estados Unidos",
+      "qu": "Estados Unidos",
+      "pt": "Estados Unidos",
+      "fr": "États-Unis",
+      "nl": "Verenigde Staten"
+    },
+    "EE": {
+      "en": "Estonia",
+      "es": "Estonia",
+      "qu": "Estonia",
+      "pt": "Estonia",
+      "fr": "Estonie",
+      "nl": "Estland"
+    },
+    "ET": {
+      "en": "Ethiopia",
+      "es": "Etiopía",
+      "qu": "Etiopía",
+      "pt": "Etiopía",
+      "fr": "Éthiopie",
+      "nl": "Ethiopië"
+    },
+    "PH": {
+      "en": "Philippines",
+      "es": "Filipinas",
+      "qu": "Filipinas",
+      "pt": "Filipinas",
+      "fr": "Philippines",
+      "nl": "Filipijnen"
+    },
+    "FI": {
+      "en": "Finland",
+      "es": "Finlandia",
+      "qu": "Finlandia",
+      "pt": "Finlandia",
+      "fr": "Finlande",
+      "nl": "Finland"
+    },
+    "FJ": {
+      "en": "Fiji",
+      "es": "Fiyi",
+      "qu": "Fiyi",
+      "pt": "Fiyi",
+      "fr": "Fidji",
+      "nl": "Fiji"
+    },
+    "FR": {
+      "en": "France",
+      "es": "Francia",
+      "qu": "Francia",
+      "pt": "Francia",
+      "fr": "France",
+      "nl": "Frankrijk"
+    },
+    "GA": {
+      "en": "Gabon",
+      "es": "Gabón",
+      "qu": "Gabón",
+      "pt": "Gabón",
+      "fr": "Gabon",
+      "nl": "Gabon"
+    },
+    "GM": {
+      "en": "Gambia",
+      "es": "Gambia",
+      "qu": "Gambia",
+      "pt": "Gambia",
+      "fr": "Gambie",
+      "nl": "Gambia"
+    },
+    "GE": {
+      "en": "Georgia",
+      "es": "Georgia",
+      "qu": "Georgia",
+      "pt": "Georgia",
+      "fr": "Géorgie",
+      "nl": "Georgië"
+    },
+    "GH": {
+      "en": "Ghana",
+      "es": "Ghana",
+      "qu": "Ghana",
+      "pt": "Ghana",
+      "fr": "Ghana",
+      "nl": "Ghana"
+    },
+    "GI": {
+      "en": "Gibraltar",
+      "es": "Gibraltar",
+      "qu": "Gibraltar",
+      "pt": "Gibraltar",
+      "fr": "Gibraltar",
+      "nl": "Gibraltar"
+    },
+    "GD": {
+      "en": "Grenada",
+      "es": "Granada",
+      "qu": "Granada",
+      "pt": "Granada",
+      "fr": "Grenade",
+      "nl": "Grenada"
+    },
+    "GR": {
+      "en": "Greece",
+      "es": "Grecia",
+      "qu": "Grecia",
+      "pt": "Grecia",
+      "fr": "Grèce",
+      "nl": "Griekenland"
+    },
+    "GL": {
+      "en": "Greenland",
+      "es": "Groenlandia",
+      "qu": "Groenlandia",
+      "pt": "Groenlandia",
+      "fr": "Groenland",
+      "nl": "Groenland"
+    },
+    "GP": {
+      "en": "Guadeloupe",
+      "es": "Guadalupe",
+      "qu": "Guadalupe",
+      "pt": "Guadalupe",
+      "fr": "Guadeloupe",
+      "nl": "Guadeloupe"
+    },
+    "GU": {
+      "en": "Guam",
+      "es": "Guam",
+      "qu": "Guam",
+      "pt": "Guam",
+      "fr": "Guam",
+      "nl": "Guam"
+    },
+    "GT": {
+      "en": "Guatemala",
+      "es": "Guatemala",
+      "qu": "Guatemala",
+      "pt": "Guatemala",
+      "fr": "Guatemala",
+      "nl": "Guatemala"
+    },
+    "GF": {
+      "en": "French Guiana",
+      "es": "Guayana Francesa",
+      "qu": "Guayana Francesa",
+      "pt": "Guayana Francesa",
+      "fr": "Guyane",
+      "nl": "Frans-Guyana"
+    },
+    "GG": {
+      "en": "Guernsey",
+      "es": "Guernsey",
+      "qu": "Guernsey",
+      "pt": "Guernsey",
+      "fr": "Guernesey",
+      "nl": "Guernsey"
+    },
+    "GN": {
+      "en": "Guinea",
+      "es": "Guinea",
+      "qu": "Guinea",
+      "pt": "Guinea",
+      "fr": "Guinée",
+      "nl": "Guinee"
+    },
+    "GW": {
+      "en": "Guinea-Bissau",
+      "es": "Guinea-Bisáu",
+      "qu": "Guinea-Bisáu",
+      "pt": "Guinea-Bisáu",
+      "fr": "Guinée-Bissau",
+      "nl": "Guinee-Bissau"
+    },
+    "GQ": {
+      "en": "Equatorial Guinea",
+      "es": "Guinea Ecuatorial",
+      "qu": "Guinea Ecuatorial",
+      "pt": "Guinea Ecuatorial",
+      "fr": "Guinée équatoriale",
+      "nl": "Equatoriaal-Guinea"
+    },
+    "GY": {
+      "en": "Guyana",
+      "es": "Guyana",
+      "qu": "Guyana",
+      "pt": "Guyana",
+      "fr": "Guyana",
+      "nl": "Guyana"
+    },
+    "HT": {
+      "en": "Haiti",
+      "es": "Haití",
+      "qu": "Haití",
+      "pt": "Haití",
+      "fr": "Haïti",
+      "nl": "Haïti"
+    },
+    "HN": {
+      "en": "Honduras",
+      "es": "Honduras",
+      "qu": "Honduras",
+      "pt": "Honduras",
+      "fr": "Honduras",
+      "nl": "Honduras"
+    },
+    "HK": {
+      "en": "Hong Kong",
+      "es": "Hong Kong",
+      "qu": "Hong Kong",
+      "pt": "Hong Kong",
+      "fr": "Hong Kong",
+      "nl": "Hongkong"
+    },
+    "HU": {
+      "en": "Hungary",
+      "es": "Hungría",
+      "qu": "Hungría",
+      "pt": "Hungría",
+      "fr": "Hongrie",
+      "nl": "Hongarije"
+    },
+    "IN": {
+      "en": "India",
+      "es": "India",
+      "qu": "India",
+      "pt": "India",
+      "fr": "Inde",
+      "nl": "India"
+    },
+    "ID": {
+      "en": "Indonesia",
+      "es": "Indonesia",
+      "qu": "Indonesia",
+      "pt": "Indonesia",
+      "fr": "Indonésie",
+      "nl": "Indonesië"
+    },
+    "IQ": {
+      "en": "Iraq",
+      "es": "Irak",
+      "qu": "Irak",
+      "pt": "Irak",
+      "fr": "Irak",
+      "nl": "Irak"
+    },
+    "IR": {
+      "en": "Iran",
+      "es": "Irán",
+      "qu": "Irán",
+      "pt": "Irán",
+      "fr": "Iran",
+      "nl": "Iran"
+    },
+    "IE": {
+      "en": "Ireland",
+      "es": "Irlanda",
+      "qu": "Irlanda",
+      "pt": "Irlanda",
+      "fr": "Irlande",
+      "nl": "Ierland"
+    },
+    "BV": {
+      "en": "Bouvet Island",
+      "es": "Isla Bouvet",
+      "qu": "Isla Bouvet",
+      "pt": "Isla Bouvet",
+      "fr": "Île Bouvet",
+      "nl": "Bouvet"
+    },
+    "IM": {
+      "en": "Isle of Man",
+      "es": "Isla de Man",
+      "qu": "Isla de Man",
+      "pt": "Isla de Man",
+      "fr": "Île de Man",
+      "nl": "Man"
+    },
+    "CX": {
+      "en": "Christmas Island",
+      "es": "Isla de Navidad",
+      "qu": "Isla de Navidad",
+      "pt": "Isla de Navidad",
+      "fr": "Île Christmas",
+      "nl": "Christmaseiland"
+    },
+    "IS": {
+      "en": "Iceland",
+      "es": "Islandia",
+      "qu": "Islandia",
+      "pt": "Islandia",
+      "fr": "Islande",
+      "nl": "IJsland"
+    },
+    "KY": {
+      "en": "Cayman Islands",
+      "es": "Islas Caimán",
+      "qu": "Islas Caimán",
+      "pt": "Islas Caimán",
+      "fr": "Îles Caïmans",
+      "nl": "Kaaimaneilanden"
+    },
+    "CC": {
+      "en": "Cocos (Keeling) Islands",
+      "es": "Islas Cocos",
+      "qu": "Islas Cocos",
+      "pt": "Islas Cocos",
+      "fr": "Îles Cocos",
+      "nl": "Cocoseilanden"
+    },
+    "CK": {
+      "en": "Cook Islands",
+      "es": "Islas Cook",
+      "qu": "Islas Cook",
+      "pt": "Islas Cook",
+      "fr": "Îles Cook",
+      "nl": "Cookeilanden"
+    },
+    "FO": {
+      "en": "Faroe Islands",
+      "es": "Islas Feroe",
+      "qu": "Islas Feroe",
+      "pt": "Islas Feroe",
+      "fr": "Îles Féroé",
+      "nl": "Faeröer"
+    },
+    "GS": {
+      "en": "South Georgia and the South Sandwich Islands",
+      "es": "Islas Georgias del Sur y Sandwich del Sur",
+      "qu": "Islas Georgias del Sur y Sandwich del Sur",
+      "pt": "Islas Georgias del Sur y Sandwich del Sur",
+      "fr": "Géorgie du Sud-et-les îles Sandwich du Sud",
+      "nl": "Zuid-Georgia en de Zuidelijke Sandwicheilanden"
+    },
+    "HM": {
+      "en": "Heard Island and McDonald Islands",
+      "es": "Islas Heard y McDonald",
+      "qu": "Islas Heard y McDonald",
+      "pt": "Islas Heard y McDonald",
+      "fr": "Îles Heard-et-MacDonald",
+      "nl": "Heard en McDonaldeilanden"
+    },
+    "FK": {
+      "en": "Falkland Islands (Malvinas)",
+      "es": "Islas Malvinas",
+      "qu": "Islas Malvinas",
+      "pt": "Islas Malvinas",
+      "fr": "Malouines",
+      "nl": "Falklandeilanden"
+    },
+    "MP": {
+      "en": "Northern Mariana Islands",
+      "es": "Islas Marianas del Norte",
+      "qu": "Islas Marianas del Norte",
+      "pt": "Islas Marianas del Norte",
+      "fr": "Îles Mariannes du Nord",
+      "nl": "Noordelijke Marianen"
+    },
+    "MH": {
+      "en": "Marshall Islands",
+      "es": "Islas Marshall",
+      "qu": "Islas Marshall",
+      "pt": "Islas Marshall",
+      "fr": "Îles Marshall",
+      "nl": "Marshalleilanden"
+    },
+    "PN": {
+      "en": "Pitcairn",
+      "es": "Islas Pitcairn",
+      "qu": "Islas Pitcairn",
+      "pt": "Islas Pitcairn",
+      "fr": "Îles Pitcairn",
+      "nl": "Pitcairneilanden"
+    },
+    "SB": {
+      "en": "Solomon Islands",
+      "es": "Islas Salomón",
+      "qu": "Islas Salomón",
+      "pt": "Islas Salomón",
+      "fr": "Îles Salomon",
+      "nl": "Salomonseilanden"
+    },
+    "TC": {
+      "en": "Turks and Caicos Islands",
+      "es": "Islas Turcas y Caicos",
+      "qu": "Islas Turcas y Caicos",
+      "pt": "Islas Turcas y Caicos",
+      "fr": "Îles Turques-et-Caïques",
+      "nl": "Turks- en Caicoseilanden"
+    },
+    "UM": {
+      "en": "United States Minor Outlying Islands",
+      "es": "Islas Ultramarinas Menores de los Estados Unidos",
+      "qu": "Islas Ultramarinas Menores de los Estados Unidos",
+      "pt": "Islas Ultramarinas Menores de los Estados Unidos",
+      "fr": "Îles mineures éloignées des États-Unis",
+      "nl": "Kleine afgelegen eilanden van de Verenigde Staten"
+    },
+    "VG": {
+      "en": "Virgin Islands (British)",
+      "es": "Islas Vírgenes Británicas",
+      "qu": "Islas Vírgenes Británicas",
+      "pt": "Islas Vírgenes Británicas",
+      "fr": "Îles Vierges britanniques",
+      "nl": "Britse Maagdeneilanden"
+    },
+    "VI": {
+      "en": "Virgin Islands (U.S.)",
+      "es": "Islas Vírgenes de los Estados Unidos",
+      "qu": "Islas Vírgenes de los Estados Unidos",
+      "pt": "Islas Vírgenes de los Estados Unidos",
+      "fr": "Îles Vierges des États-Unis",
+      "nl": "Amerikaanse Maagdeneilanden"
+    },
+    "IL": {
+      "en": "Israel",
+      "es": "Israel",
+      "qu": "Israel",
+      "pt": "Israel",
+      "fr": "Israël",
+      "nl": "Israël"
+    },
+    "IT": {
+      "en": "Italy",
+      "es": "Italia",
+      "qu": "Italia",
+      "pt": "Italia",
+      "fr": "Italie",
+      "nl": "Italië"
+    },
+    "JM": {
+      "en": "Jamaica",
+      "es": "Jamaica",
+      "qu": "Jamaica",
+      "pt": "Jamaica",
+      "fr": "Jamaïque",
+      "nl": "Jamaica"
+    },
+    "JP": {
+      "en": "Japan",
+      "es": "Japón",
+      "qu": "Japón",
+      "pt": "Japón",
+      "fr": "Japon",
+      "nl": "Japan"
+    },
+    "JE": {
+      "en": "Jersey",
+      "es": "Jersey",
+      "qu": "Jersey",
+      "pt": "Jersey",
+      "fr": "Jersey",
+      "nl": "Jersey"
+    },
+    "JO": {
+      "en": "Jordan",
+      "es": "Jordania",
+      "qu": "Jordania",
+      "pt": "Jordania",
+      "fr": "Jordanie",
+      "nl": "Jordanië"
+    },
+    "KZ": {
+      "en": "Kazakhstan",
+      "es": "Kazajistán",
+      "qu": "Kazajistán",
+      "pt": "Kazajistán",
+      "fr": "Kazakhstan",
+      "nl": "Kazachstan"
+    },
+    "KE": {
+      "en": "Kenya",
+      "es": "Kenia",
+      "qu": "Kenia",
+      "pt": "Kenia",
+      "fr": "Kenya",
+      "nl": "Kenia"
+    },
+    "KG": {
+      "en": "Kyrgyzstan",
+      "es": "Kirguistán",
+      "qu": "Kirguistán",
+      "pt": "Kirguistán",
+      "fr": "Kirghizistan",
+      "nl": "Kirgizië"
+    },
+    "KI": {
+      "en": "Kiribati",
+      "es": "Kiribati",
+      "qu": "Kiribati",
+      "pt": "Kiribati",
+      "fr": "Kiribati",
+      "nl": "Kiribati"
+    },
+    "KW": {
+      "en": "Kuwait",
+      "es": "Kuwait",
+      "qu": "Kuwait",
+      "pt": "Kuwait",
+      "fr": "Koweït",
+      "nl": "Koeweit"
+    },
+    "LA": {
+      "en": "Lao People's Democratic Republic",
+      "es": "Laos",
+      "qu": "Laos",
+      "pt": "Laos",
+      "fr": "Laos",
+      "nl": "Laos"
+    },
+    "LS": {
+      "en": "Lesotho",
+      "es": "Lesoto",
+      "qu": "Lesoto",
+      "pt": "Lesoto",
+      "fr": "Lesotho",
+      "nl": "Lesotho"
+    },
+    "LV": {
+      "en": "Latvia",
+      "es": "Letonia",
+      "qu": "Letonia",
+      "pt": "Letonia",
+      "fr": "Lettonie",
+      "nl": "Letland"
+    },
+    "LB": {
+      "en": "Lebanon",
+      "es": "Líbano",
+      "qu": "Líbano",
+      "pt": "Líbano",
+      "fr": "Liban",
+      "nl": "Libanon"
+    },
+    "LR": {
+      "en": "Liberia",
+      "es": "Liberia",
+      "qu": "Liberia",
+      "pt": "Liberia",
+      "fr": "Liberia",
+      "nl": "Liberia"
+    },
+    "LY": {
+      "en": "Libya",
+      "es": "Libia",
+      "qu": "Libia",
+      "pt": "Libia",
+      "fr": "Libye",
+      "nl": "Libië"
+    },
+    "LI": {
+      "en": "Liechtenstein",
+      "es": "Liechtenstein",
+      "qu": "Liechtenstein",
+      "pt": "Liechtenstein",
+      "fr": "Liechtenstein",
+      "nl": "Liechtenstein"
+    },
+    "LT": {
+      "en": "Lithuania",
+      "es": "Lituania",
+      "qu": "Lituania",
+      "pt": "Lituania",
+      "fr": "Lituanie",
+      "nl": "Litouwen"
+    },
+    "LU": {
+      "en": "Luxembourg",
+      "es": "Luxemburgo",
+      "qu": "Luxemburgo",
+      "pt": "Luxemburgo",
+      "fr": "Luxembourg",
+      "nl": "Luxemburg"
+    },
+    "MO": {
+      "en": "Macao",
+      "es": "Macao",
+      "qu": "Macao",
+      "pt": "Macao",
+      "fr": "Macao",
+      "nl": "Macau"
+    },
+    "MK": {
+      "en": "North Macedonia",
+      "es": "Macedonia del Norte",
+      "qu": "Macedonia del Norte",
+      "pt": "Macedonia del Norte",
+      "fr": "Macédoine du Nord",
+      "nl": "Noord-Macedonië"
+    },
+    "MG": {
+      "en": "Madagascar",
+      "es": "Madagascar",
+      "qu": "Madagascar",
+      "pt": "Madagascar",
+      "fr": "Madagascar",
+      "nl": "Madagaskar"
+    },
+    "MY": {
+      "en": "Malaysia",
+      "es": "Malasia",
+      "qu": "Malasia",
+      "pt": "Malasia",
+      "fr": "Malaisie",
+      "nl": "Maleisië"
+    },
+    "MW": {
+      "en": "Malawi",
+      "es": "Malaui",
+      "qu": "Malaui",
+      "pt": "Malaui",
+      "fr": "Malawi",
+      "nl": "Malawi"
+    },
+    "MV": {
+      "en": "Maldives",
+      "es": "Maldivas",
+      "qu": "Maldivas",
+      "pt": "Maldivas",
+      "fr": "Maldives",
+      "nl": "Malediven"
+    },
+    "ML": {
+      "en": "Mali",
+      "es": "Malí",
+      "qu": "Malí",
+      "pt": "Malí",
+      "fr": "Mali",
+      "nl": "Mali"
+    },
+    "MT": {
+      "en": "Malta",
+      "es": "Malta",
+      "qu": "Malta",
+      "pt": "Malta",
+      "fr": "Malte",
+      "nl": "Malta"
+    },
+    "MA": {
+      "en": "Morocco",
+      "es": "Marruecos",
+      "qu": "Marruecos",
+      "pt": "Marruecos",
+      "fr": "Maroc",
+      "nl": "Marokko"
+    },
+    "MQ": {
+      "en": "Martinique",
+      "es": "Martinica",
+      "qu": "Martinica",
+      "pt": "Martinica",
+      "fr": "Martinique",
+      "nl": "Martinique"
+    },
+    "MU": {
+      "en": "Mauritius",
+      "es": "Mauricio",
+      "qu": "Mauricio",
+      "pt": "Mauricio",
+      "fr": "Maurice",
+      "nl": "Mauritius"
+    },
+    "MR": {
+      "en": "Mauritania",
+      "es": "Mauritania",
+      "qu": "Mauritania",
+      "pt": "Mauritania",
+      "fr": "Mauritanie",
+      "nl": "Mauritanië"
+    },
+    "YT": {
+      "en": "Mayotte",
+      "es": "Mayotte",
+      "qu": "Mayotte",
+      "pt": "Mayotte",
+      "fr": "Mayotte",
+      "nl": "Mayotte"
+    },
+    "MX": {
+      "en": "Mexico",
+      "es": "México",
+      "qu": "México",
+      "pt": "México",
+      "fr": "Mexique",
+      "nl": "Mexico"
+    },
+    "FM": {
+      "en": "Micronesia",
+      "es": "Micronesia",
+      "qu": "Micronesia",
+      "pt": "Micronesia",
+      "fr": "États fédérés de Micronésie",
+      "nl": "Micronesië"
+    },
+    "MD": {
+      "en": "Moldova, Republic of",
+      "es": "Moldavia",
+      "qu": "Moldavia",
+      "pt": "Moldavia",
+      "fr": "Moldavie",
+      "nl": "Moldavië"
+    },
+    "MC": {
+      "en": "Monaco",
+      "es": "Mónaco",
+      "qu": "Mónaco",
+      "pt": "Mónaco",
+      "fr": "Monaco",
+      "nl": "Monaco"
+    },
+    "MN": {
+      "en": "Mongolia",
+      "es": "Mongolia",
+      "qu": "Mongolia",
+      "pt": "Mongolia",
+      "fr": "Mongolie",
+      "nl": "Mongolië"
+    },
+    "ME": {
+      "en": "Montenegro",
+      "es": "Montenegro",
+      "qu": "Montenegro",
+      "pt": "Montenegro",
+      "fr": "Monténégro",
+      "nl": "Montenegro"
+    },
+    "MS": {
+      "en": "Montserrat",
+      "es": "Montserrat",
+      "qu": "Montserrat",
+      "pt": "Montserrat",
+      "fr": "Montserrat",
+      "nl": "Montserrat"
+    },
+    "MZ": {
+      "en": "Mozambique",
+      "es": "Mozambique",
+      "qu": "Mozambique",
+      "pt": "Mozambique",
+      "fr": "Mozambique",
+      "nl": "Mozambique"
+    },
+    "MM": {
+      "en": "Myanmar",
+      "es": "Birmania",
+      "qu": "Birmania",
+      "pt": "Birmania",
+      "fr": "Birmanie",
+      "nl": "Myanmar"
+    },
+    "NA": {
+      "en": "Namibia",
+      "es": "Namibia",
+      "qu": "Namibia",
+      "pt": "Namibia",
+      "fr": "Namibie",
+      "nl": "Namibië"
+    },
+    "NR": {
+      "en": "Nauru",
+      "es": "Nauru",
+      "qu": "Nauru",
+      "pt": "Nauru",
+      "fr": "Nauru",
+      "nl": "Nauru"
+    },
+    "NP": {
+      "en": "Nepal",
+      "es": "Nepal",
+      "qu": "Nepal",
+      "pt": "Nepal",
+      "fr": "Népal",
+      "nl": "Nepal"
+    },
+    "NI": {
+      "en": "Nicaragua",
+      "es": "Nicaragua",
+      "qu": "Nicaragua",
+      "pt": "Nicaragua",
+      "fr": "Nicaragua",
+      "nl": "Nicaragua"
+    },
+    "NE": {
+      "en": "Niger",
+      "es": "Níger",
+      "qu": "Níger",
+      "pt": "Níger",
+      "fr": "Niger",
+      "nl": "Niger"
+    },
+    "NG": {
+      "en": "Nigeria",
+      "es": "Nigeria",
+      "qu": "Nigeria",
+      "pt": "Nigeria",
+      "fr": "Nigeria",
+      "nl": "Nigeria"
+    },
+    "NU": {
+      "en": "Niue",
+      "es": "Niue",
+      "qu": "Niue",
+      "pt": "Niue",
+      "fr": "Niue",
+      "nl": "Niue"
+    },
+    "NF": {
+      "en": "Norfolk Island",
+      "es": "Isla Norfolk",
+      "qu": "Isla Norfolk",
+      "pt": "Isla Norfolk",
+      "fr": "Île Norfolk",
+      "nl": "Norfolk"
+    },
+    "NO": {
+      "en": "Norway",
+      "es": "Noruega",
+      "qu": "Noruega",
+      "pt": "Noruega",
+      "fr": "Norvège",
+      "nl": "Noorwegen"
+    },
+    "NC": {
+      "en": "New Caledonia",
+      "es": "Nueva Caledonia",
+      "qu": "Nueva Caledonia",
+      "pt": "Nueva Caledonia",
+      "fr": "Nouvelle-Calédonie",
+      "nl": "Nieuw-Caledonië"
+    },
+    "NZ": {
+      "en": "New Zealand",
+      "es": "Nueva Zelanda",
+      "qu": "Nueva Zelanda",
+      "pt": "Nueva Zelanda",
+      "fr": "Nouvelle-Zélande",
+      "nl": "Nieuw-Zeeland"
+    },
+    "OM": {
+      "en": "Oman",
+      "es": "Omán",
+      "qu": "Omán",
+      "pt": "Omán",
+      "fr": "Oman",
+      "nl": "Oman"
+    },
+    "NL": {
+      "en": "Netherlands",
+      "es": "Países Bajos",
+      "qu": "Países Bajos",
+      "pt": "Países Bajos",
+      "fr": "Pays-Bas",
+      "nl": "Nederland"
+    },
+    "PK": {
+      "en": "Pakistan",
+      "es": "Pakistán",
+      "qu": "Pakistán",
+      "pt": "Pakistán",
+      "fr": "Pakistan",
+      "nl": "Pakistan"
+    },
+    "PW": {
+      "en": "Palau",
+      "es": "Palaos",
+      "qu": "Palaos",
+      "pt": "Palaos",
+      "fr": "Palaos",
+      "nl": "Palau"
+    },
+    "PS": {
+      "en": "Palestine, State of",
+      "es": "Palestina",
+      "qu": "Palestina",
+      "pt": "Palestina",
+      "fr": "Palestine",
+      "nl": "Palestina"
+    },
+    "PA": {
+      "en": "Panama",
+      "es": "Panamá",
+      "qu": "Panamá",
+      "pt": "Panamá",
+      "fr": "Panama",
+      "nl": "Panama"
+    },
+    "PG": {
+      "en": "Papua New Guinea",
+      "es": "Papúa Nueva Guinea",
+      "qu": "Papúa Nueva Guinea",
+      "pt": "Papúa Nueva Guinea",
+      "fr": "Papouasie-Nouvelle-Guinée",
+      "nl": "Papoea-Nieuw-Guinea"
+    },
+    "PY": {
+      "en": "Paraguay",
+      "es": "Paraguay",
+      "qu": "Paraguay",
+      "pt": "Paraguay",
+      "fr": "Paraguay",
+      "nl": "Paraguay"
+    },
+    "PE": {
+      "en": "Peru",
+      "es": "Perú",
+      "qu": "Perú",
+      "pt": "Perú",
+      "fr": "Pérou",
+      "nl": "Peru"
+    },
+    "PF": {
+      "en": "French Polynesia",
+      "es": "Polinesia Francesa",
+      "qu": "Polinesia Francesa",
+      "pt": "Polinesia Francesa",
+      "fr": "Polynésie française",
+      "nl": "Frans-Polynesië"
+    },
+    "PL": {
+      "en": "Poland",
+      "es": "Polonia",
+      "qu": "Polonia",
+      "pt": "Polonia",
+      "fr": "Pologne",
+      "nl": "Polen"
+    },
+    "PT": {
+      "en": "Portugal",
+      "es": "Portugal",
+      "qu": "Portugal",
+      "pt": "Portugal",
+      "fr": "Portugal",
+      "nl": "Portugal"
+    },
+    "PR": {
+      "en": "Puerto Rico",
+      "es": "Puerto Rico",
+      "qu": "Puerto Rico",
+      "pt": "Puerto Rico",
+      "fr": "Porto Rico",
+      "nl": "Puerto Rico"
+    },
+    "GB": {
+      "en": "United Kingdom of Great Britain and Northern Ireland",
+      "es": "Reino Unido",
+      "qu": "Reino Unido",
+      "pt": "Reino Unido",
+      "fr": "Royaume-Uni",
+      "nl": "Verenigd Koninkrijk"
+    },
+    "EH": {
+      "en": "Western Sahara",
+      "es": "República Árabe Saharaui Democrática",
+      "qu": "República Árabe Saharaui Democrática",
+      "pt": "República Árabe Saharaui Democrática",
+      "fr": "République arabe sahraouie démocratique",
+      "nl": "Westelijke Sahara/SADR"
+    },
+    "CF": {
+      "en": "Central African Republic",
+      "es": "República Centroafricana",
+      "qu": "República Centroafricana",
+      "pt": "República Centroafricana",
+      "fr": "République centrafricaine",
+      "nl": "Centraal-Afrikaanse Republiek"
+    },
+    "CZ": {
+      "en": "Czechia",
+      "es": "República Checa",
+      "qu": "República Checa",
+      "pt": "República Checa",
+      "fr": "Tchéquie",
+      "nl": "Tsjechië"
+    },
+    "CG": {
+      "en": "Congo",
+      "es": "República del Congo",
+      "qu": "República del Congo",
+      "pt": "República del Congo",
+      "fr": "République du Congo",
+      "nl": "Congo-Brazzaville"
+    },
+    "CD": {
+      "en": "Congo, Democratic Republic of the",
+      "es": "República Democrática del Congo",
+      "qu": "República Democrática del Congo",
+      "pt": "República Democrática del Congo",
+      "fr": "République démocratique du Congo",
+      "nl": "Congo-Kinshasa"
+    },
+    "DO": {
+      "en": "Dominican Republic",
+      "es": "República Dominicana",
+      "qu": "República Dominicana",
+      "pt": "República Dominicana",
+      "fr": "République dominicaine",
+      "nl": "Dominicaanse Republiek"
+    },
+    "RE": {
+      "en": "Réunion",
+      "es": "Reunión",
+      "qu": "Reunión",
+      "pt": "Reunión",
+      "fr": "La Réunion",
+      "nl": "Réunion"
+    },
+    "RW": {
+      "en": "Rwanda",
+      "es": "Ruanda",
+      "qu": "Ruanda",
+      "pt": "Ruanda",
+      "fr": "Rwanda",
+      "nl": "Rwanda"
+    },
+    "RO": {
+      "en": "Romania",
+      "es": "Rumania",
+      "qu": "Rumania",
+      "pt": "Rumania",
+      "fr": "Roumanie",
+      "nl": "Roemenië"
+    },
+    "RU": {
+      "en": "Russian Federation",
+      "es": "Rusia",
+      "qu": "Rusia",
+      "pt": "Rusia",
+      "fr": "Russie",
+      "nl": "Rusland"
+    },
+    "WS": {
+      "en": "Samoa",
+      "es": "Samoa",
+      "qu": "Samoa",
+      "pt": "Samoa",
+      "fr": "Samoa",
+      "nl": "Samoa"
+    },
+    "AS": {
+      "en": "American Samoa",
+      "es": "Samoa Americana",
+      "qu": "Samoa Americana",
+      "pt": "Samoa Americana",
+      "fr": "Samoa américaines",
+      "nl": "Amerikaans-Samoa"
+    },
+    "BL": {
+      "en": "Saint Barthélemy",
+      "es": "San Bartolomé",
+      "qu": "San Bartolomé",
+      "pt": "San Bartolomé",
+      "fr": "Saint-Barthélemy",
+      "nl": "Saint-Barthélemy"
+    },
+    "KN": {
+      "en": "Saint Kitts and Nevis",
+      "es": "San Cristóbal y Nieves",
+      "qu": "San Cristóbal y Nieves",
+      "pt": "San Cristóbal y Nieves",
+      "fr": "Saint-Christophe-et-Niévès",
+      "nl": "Saint Kitts en Nevis"
+    },
+    "SM": {
+      "en": "San Marino",
+      "es": "San Marino",
+      "qu": "San Marino",
+      "pt": "San Marino",
+      "fr": "Saint-Marin",
+      "nl": "San Marino"
+    },
+    "MF": {
+      "en": "Saint Martin (French part)",
+      "es": "San Martín",
+      "qu": "San Martín",
+      "pt": "San Martín",
+      "fr": "Saint-Martin",
+      "nl": "Saint-Martin"
+    },
+    "PM": {
+      "en": "Saint Pierre and Miquelon",
+      "es": "San Pedro y Miquelón",
+      "qu": "San Pedro y Miquelón",
+      "pt": "San Pedro y Miquelón",
+      "fr": "Saint-Pierre-et-Miquelon",
+      "nl": "Saint-Pierre en Miquelon"
+    },
+    "VC": {
+      "en": "Saint Vincent and the Grenadines",
+      "es": "San Vicente y las Granadinas",
+      "qu": "San Vicente y las Granadinas",
+      "pt": "San Vicente y las Granadinas",
+      "fr": "Saint-Vincent-et-les-Grenadines",
+      "nl": "Saint Vincent en de Grenadines"
+    },
+    "SH": {
+      "en": "Saint Helena, Ascension and Tristan da Cunha",
+      "es": "Santa Elena, Ascensión y Tristán de Acuña",
+      "qu": "Santa Elena, Ascensión y Tristán de Acuña",
+      "pt": "Santa Elena, Ascensión y Tristán de Acuña",
+      "fr": "Sainte-Hélène, Ascension et Tristan da Cunha",
+      "nl": "Sint-Helena, Ascension en Tristan da Cunha"
+    },
+    "LC": {
+      "en": "Saint Lucia",
+      "es": "Santa Lucía",
+      "qu": "Santa Lucía",
+      "pt": "Santa Lucía",
+      "fr": "Sainte-Lucie",
+      "nl": "Saint Lucia"
+    },
+    "ST": {
+      "en": "Sao Tome and Principe",
+      "es": "Santo Tomé y Príncipe",
+      "qu": "Santo Tomé y Príncipe",
+      "pt": "Santo Tomé y Príncipe",
+      "fr": "Sao Tomé-et-Principe",
+      "nl": "Sao Tomé en Principe"
+    },
+    "SN": {
+      "en": "Senegal",
+      "es": "Senegal",
+      "qu": "Senegal",
+      "pt": "Senegal",
+      "fr": "Sénégal",
+      "nl": "Senegal"
+    },
+    "RS": {
+      "en": "Serbia",
+      "es": "Serbia",
+      "qu": "Serbia",
+      "pt": "Serbia",
+      "fr": "Serbie",
+      "nl": "Servië"
+    },
+    "SC": {
+      "en": "Seychelles",
+      "es": "Seychelles",
+      "qu": "Seychelles",
+      "pt": "Seychelles",
+      "fr": "Seychelles",
+      "nl": "Seychellen"
+    },
+    "SL": {
+      "en": "Sierra Leone",
+      "es": "Sierra Leona",
+      "qu": "Sierra Leona",
+      "pt": "Sierra Leona",
+      "fr": "Sierra Leone",
+      "nl": "Sierra Leone"
+    },
+    "SG": {
+      "en": "Singapore",
+      "es": "Singapur",
+      "qu": "Singapur",
+      "pt": "Singapur",
+      "fr": "Singapour",
+      "nl": "Singapore"
+    },
+    "SX": {
+      "en": "Sint Maarten (Dutch part)",
+      "es": "San Martín",
+      "qu": "San Martín",
+      "pt": "San Martín",
+      "fr": "Saint-Martin",
+      "nl": "Sint Maarten"
+    },
+    "SY": {
+      "en": "Syrian Arab Republic",
+      "es": "Siria",
+      "qu": "Siria",
+      "pt": "Siria",
+      "fr": "Syrie",
+      "nl": "Syrië"
+    },
+    "SO": {
+      "en": "Somalia",
+      "es": "Somalia",
+      "qu": "Somalia",
+      "pt": "Somalia",
+      "fr": "Somalie",
+      "nl": "Somalië"
+    },
+    "LK": {
+      "en": "Sri Lanka",
+      "es": "Sri Lanka",
+      "qu": "Sri Lanka",
+      "pt": "Sri Lanka",
+      "fr": "Sri Lanka",
+      "nl": "Sri Lanka"
+    },
+    "SZ": {
+      "en": "Eswatini",
+      "es": "Suazilandia",
+      "qu": "Suazilandia",
+      "pt": "Suazilandia",
+      "fr": "Eswatini",
+      "nl": "Swaziland"
+    },
+    "ZA": {
+      "en": "South Africa",
+      "es": "Sudáfrica",
+      "qu": "Sudáfrica",
+      "pt": "Sudáfrica",
+      "fr": "Afrique du Sud",
+      "nl": "Zuid-Afrika"
+    },
+    "SD": {
+      "en": "Sudan",
+      "es": "Sudán",
+      "qu": "Sudán",
+      "pt": "Sudán",
+      "fr": "Soudan",
+      "nl": "Soedan"
+    },
+    "SS": {
+      "en": "South Sudan",
+      "es": "Sudán del Sur",
+      "qu": "Sudán del Sur",
+      "pt": "Sudán del Sur",
+      "fr": "Soudan du Sud",
+      "nl": "Zuid-Soedan"
+    },
+    "SE": {
+      "en": "Sweden",
+      "es": "Suecia",
+      "qu": "Suecia",
+      "pt": "Suecia",
+      "fr": "Suède",
+      "nl": "Zweden"
+    },
+    "CH": {
+      "en": "Switzerland",
+      "es": "Suiza",
+      "qu": "Suiza",
+      "pt": "Suiza",
+      "fr": "Suisse",
+      "nl": "Zwitserland"
+    },
+    "SR": {
+      "en": "Suriname",
+      "es": "Surinam",
+      "qu": "Surinam",
+      "pt": "Surinam",
+      "fr": "Suriname",
+      "nl": "Suriname"
+    },
+    "SJ": {
+      "en": "Svalbard and Jan Mayen",
+      "es": "Svalbard y Jan Mayen",
+      "qu": "Svalbard y Jan Mayen",
+      "pt": "Svalbard y Jan Mayen",
+      "fr": "Svalbard et ile Jan Mayen",
+      "nl": "Spitsbergen en Jan Mayen"
+    },
+    "TH": {
+      "en": "Thailand",
+      "es": "Tailandia",
+      "qu": "Tailandia",
+      "pt": "Tailandia",
+      "fr": "Thaïlande",
+      "nl": "Thailand"
+    },
+    "TW": {
+      "en": "Taiwan",
+      "es": "Taiwán",
+      "qu": "Taiwán",
+      "pt": "Taiwán",
+      "fr": "Taïwan",
+      "nl": "Taiwan"
+    },
+    "TZ": {
+      "en": "Tanzania",
+      "es": "Tanzania",
+      "qu": "Tanzania",
+      "pt": "Tanzania",
+      "fr": "Tanzanie",
+      "nl": "Tanzania"
+    },
+    "TJ": {
+      "en": "Tajikistan",
+      "es": "Tayikistán",
+      "qu": "Tayikistán",
+      "pt": "Tayikistán",
+      "fr": "Tadjikistan",
+      "nl": "Tadzjikistan"
+    },
+    "IO": {
+      "en": "British Indian Ocean Territory",
+      "es": "Territorio Británico del Océano Índico",
+      "qu": "Territorio Británico del Océano Índico",
+      "pt": "Territorio Británico del Océano Índico",
+      "fr": "Territoire britannique de l'océan Indien",
+      "nl": "Brits Indische Oceaanterritorium"
+    },
+    "TF": {
+      "en": "French Southern Territories",
+      "es": "Tierras Australes y Antárticas Francesas",
+      "qu": "Tierras Australes y Antárticas Francesas",
+      "pt": "Tierras Australes y Antárticas Francesas",
+      "fr": "Terres australes et antarctiques françaises",
+      "nl": "Franse Zuidelijke Gebieden"
+    },
+    "TL": {
+      "en": "Timor-Leste",
+      "es": "Timor Oriental",
+      "qu": "Timor Oriental",
+      "pt": "Timor Oriental",
+      "fr": "Timor oriental",
+      "nl": "Oost-Timor"
+    },
+    "TG": {
+      "en": "Togo",
+      "es": "Togo",
+      "qu": "Togo",
+      "pt": "Togo",
+      "fr": "Togo",
+      "nl": "Togo"
+    },
+    "TK": {
+      "en": "Tokelau",
+      "es": "Tokelau",
+      "qu": "Tokelau",
+      "pt": "Tokelau",
+      "fr": "Tokelau",
+      "nl": "Tokelau"
+    },
+    "TO": {
+      "en": "Tonga",
+      "es": "Tonga",
+      "qu": "Tonga",
+      "pt": "Tonga",
+      "fr": "Tonga",
+      "nl": "Tonga"
+    },
+    "TT": {
+      "en": "Trinidad and Tobago",
+      "es": "Trinidad y Tobago",
+      "qu": "Trinidad y Tobago",
+      "pt": "Trinidad y Tobago",
+      "fr": "Trinité-et-Tobago",
+      "nl": "Trinidad en Tobago"
+    },
+    "TN": {
+      "en": "Tunisia",
+      "es": "Túnez",
+      "qu": "Túnez",
+      "pt": "Túnez",
+      "fr": "Tunisie",
+      "nl": "Tunesië"
+    },
+    "TM": {
+      "en": "Turkmenistan",
+      "es": "Turkmenistán",
+      "qu": "Turkmenistán",
+      "pt": "Turkmenistán",
+      "fr": "Turkménistan",
+      "nl": "Turkmenistan"
+    },
+    "TR": {
+      "en": "Turkey",
+      "es": "Turquía",
+      "qu": "Turquía",
+      "pt": "Turquía",
+      "fr": "Turquie",
+      "nl": "Turkije"
+    },
+    "TV": {
+      "en": "Tuvalu",
+      "es": "Tuvalu",
+      "qu": "Tuvalu",
+      "pt": "Tuvalu",
+      "fr": "Tuvalu",
+      "nl": "Tuvalu"
+    },
+    "UA": {
+      "en": "Ukraine",
+      "es": "Ucrania",
+      "qu": "Ucrania",
+      "pt": "Ucrania",
+      "fr": "Ukraine",
+      "nl": "Oekraïne"
+    },
+    "UG": {
+      "en": "Uganda",
+      "es": "Uganda",
+      "qu": "Uganda",
+      "pt": "Uganda",
+      "fr": "Ouganda",
+      "nl": "Oeganda"
+    },
+    "UY": {
+      "en": "Uruguay",
+      "es": "Uruguay",
+      "qu": "Uruguay",
+      "pt": "Uruguay",
+      "fr": "Uruguay",
+      "nl": "Uruguay"
+    },
+    "UZ": {
+      "en": "Uzbekistan",
+      "es": "Uzbekistán",
+      "qu": "Uzbekistán",
+      "pt": "Uzbekistán",
+      "fr": "Ouzbékistan",
+      "nl": "Oezbekistan"
+    },
+    "VU": {
+      "en": "Vanuatu",
+      "es": "Vanuatu",
+      "qu": "Vanuatu",
+      "pt": "Vanuatu",
+      "fr": "Vanuatu",
+      "nl": "Vanuatu"
+    },
+    "VA": {
+      "en": "Holy See",
+      "es": "Ciudad del Vaticano",
+      "qu": "Ciudad del Vaticano",
+      "pt": "Ciudad del Vaticano",
+      "fr": "Saint-Siège (État de la Cité du Vatican)",
+      "nl": "Vaticaanstad"
+    },
+    "VE": {
+      "en": "Venezuela",
+      "es": "Venezuela",
+      "qu": "Venezuela",
+      "pt": "Venezuela",
+      "fr": "Venezuela",
+      "nl": "Venezuela"
+    },
+    "VN": {
+      "en": "Viet Nam",
+      "es": "Vietnam",
+      "qu": "Vietnam",
+      "pt": "Vietnam",
+      "fr": "Viêt Nam",
+      "nl": "Vietnam"
+    },
+    "WF": {
+      "en": "Wallis and Futuna",
+      "es": "Wallis y Futuna",
+      "qu": "Wallis y Futuna",
+      "pt": "Wallis y Futuna",
+      "fr": "Wallis-et-Futuna",
+      "nl": "Wallis en Futuna"
+    },
+    "YE": {
+      "en": "Yemen",
+      "es": "Yemen",
+      "qu": "Yemen",
+      "pt": "Yemen",
+      "fr": "Yémen",
+      "nl": "Jemen"
+    },
+    "DJ": {
+      "en": "Djibouti",
+      "es": "Yibuti",
+      "qu": "Yibuti",
+      "pt": "Yibuti",
+      "fr": "Djibouti",
+      "nl": "Djibouti"
+    },
+    "ZM": {
+      "en": "Zambia",
+      "es": "Zambia",
+      "qu": "Zambia",
+      "pt": "Zambia",
+      "fr": "Zambie",
+      "nl": "Zambia"
+    },
+    "ZW": {
+      "en": "Zimbabwe",
+      "es": "Zimbabue",
+      "qu": "Zimbabue",
+      "pt": "Zimbabue",
+      "fr": "Zimbabwe",
+      "nl": "Zimbabwe"
+    }
+  },
+  "document_types": {
+    "DNI": {
+      "en": "DNI",
+      "es": "DNI",
+      "qu": "DNI",
+      "pt": "DNI",
+      "fr": "DNI",
+      "nl": "DNI"
+    },
+    "CID": {
+      "en": "Identity card",
+      "es": "Carnet de identidad",
+      "qu": "Carnet de identidad",
+      "pt": "Carnet de identidad",
+      "fr": "Carte d'identité",
+      "nl": "Identiteitskaart"
+    },
+    "PAS": {
+      "en": "Passport",
+      "es": "Pasaporte",
+      "qu": "Pasaporte",
+      "pt": "Pasaporte",
+      "fr": "Passeport",
+      "nl": "Paspoort"
+    },
+    "CEX": {
+      "en": "Carnet de extranjería",
+      "es": "Carnet de extranjería",
+      "qu": "Carnet de extranjería",
+      "pt": "Carnet de extranjería",
+      "fr": "Carnet de extranjería",
+      "nl": "Carnet de extranjería"
+    }
+  },
+  "travel_modes_for_minors": {
+    "1": {
+      "en": "Travel with his parents",
+      "es": "Viaja con sus padres",
+      "qu": "Viaja con sus padre",
+      "pt": "Viaja con sus padre",
+      "fr": "Il voyage avec ses parents",
+      "nl": "Hij reist met zijn ouders"
+    },
+    "2": {
+      "en": "Travel with notarial permission",
+      "es": "Viaja con permiso notarial",
+      "qu": "Viaja con permiso notarial",
+      "pt": "Viaja con permiso notarial",
+      "fr": "Voyage avec autorisation notariale",
+      "nl": "Reizen met notariële toestemming"
+    }
+  },
+  "request_recover_account": {
+    "forgot_account": {
+      "en": "Forgot account?",
+      "es": "¿Olvidaste tu cuenta?",
+      "qu": "¿Olvidaste tu cuenta?",
+      "pt": "¿Olvidaste tu cuenta?",
+      "fr": "Informations de compte oubliées?",
+      "nl": "Account vergeten?"
+    },
+    "title": {
+      "en": "Find your account",
+      "es": "Buscar tu cuenta",
+      "qu": "Buscar tu cuenta",
+      "pt": "Buscar tu cuenta",
+      "fr": "Retrouvez votre compte",
+      "nl": "Je account zoeken"
+    },
+    "description": {
+      "en": "Please enter your email to search for your account.",
+      "es": "Ingresa tu correo electrónico para buscar tu cuenta.",
+      "qu": "Ingresa tu correo electrónico para buscar tu cuenta.",
+      "pt": "Ingresa tu correo electrónico para buscar tu cuenta.",
+      "fr": "Veuillez entrer votre numéro de mobile pour rechercher votre compte.",
+      "nl": "Voer je e-mailadres in om je account te zoeken."
+    },
+    "request_success": {
+      "title": {
+        "en": "Email found!",
+        "es": "Correo electrónico encontrado!",
+        "qu": "Correo electrónico encontrado!",
+        "pt": "Correo electrónico encontrado!",
+        "fr": "E-mail trouvé!",
+        "nl": "E-mail gevonden!"
+      },
+      "description": {
+        "en": "Instructions sent to email",
+        "es": "Se enviaron las instrucciones al correo electrónico",
+        "qu": "Se enviaron las instrucciones al correo electrónico",
+        "pt": "Se enviaron las instrucciones al correo electrónico",
+        "fr": "Instructies verzonden naar e-mail",
+        "nl": "Instructions envoyées par e-mail"
+      }
+    }
+  },
+  "recover_account": {
+    "title": {
+      "en": "Recover account",
+      "es": "Recuperar cuenta",
+      "qu": "Recuperar cuenta",
+      "pt": "Recuperar cuenta",
+      "fr": "Récupérer le compte",
+      "nl": "Account herstellen"
+    },
+    "different_passwords": {
+      "title": {
+        "en": "Different passwords!",
+        "es": "Contraseñas diferentes!",
+        "qu": "Contraseñas diferentes!",
+        "pt": "Contraseñas diferentes!",
+        "fr": "Différents mots de passe!",
+        "nl": "Verschillende wachtwoorden!"
+      },
+      "description": {
+        "en": "Passwords must be the same",
+        "es": "Las contraseñas deben ser iguales",
+        "qu": "Las contraseñas deben ser iguales",
+        "pt": "Las contraseñas deben ser iguales",
+        "fr": "Les mots de passe doivent être les mêmes",
+        "nl": "Wachtwoorden moeten hetzelfde zijn."
+      }
+    },
+    "request_success": {
+      "title": {
+        "en": "Password updated!",
+        "es": "Contraseña actualizada!",
+        "qu": "Contraseña actualizada!",
+        "pt": "Contraseña actualizada!",
+        "fr": "Mot de passe mis à jour!",
+        "nl": "Wachtwoord bijgewerkt!"
+      },
+      "description": {
+        "en": "Use your new password to login",
+        "es": "Use su nueva contraseña para iniciar sesion",
+        "qu": "Use su nueva contraseña para iniciar sesion",
+        "pt": "Use su nueva contraseña para iniciar sesion",
+        "fr": "Utilisez votre nouveau mot de passe pour vous connecter",
+        "nl": "Gebruik je nieuwe wachtwoord om in te loggen"
+      }
+    }
+  },
+  "seo": {
+    "title": {
+      "en": "Bus from <<0>> to <<1>>",
+      "es": "Bus de <<0>> a <<1>>",
+      "qu": "Bus de <<0>> a <<1>>",
+      "pt": "Bus de <<0>> a <<1>>",
+      "fr": "Bus de <<0>> à <<1>>",
+      "nl": "Bus van <<0>> naar <<1>>"
+    },
+    "description1": {
+      "en": "With Cruz del sur, comparing and booking tickets for a bus from <<0>> to <<1>> is a breeze. Browse through an extensive selection of bus fares and bus schedules to find the best deals.",
+      "es": "Con Cruz del sur, comparar y reservar boletos para un bus de <<0>> a <<1>> es muy fácil. Explore una amplia selección de tarifas y horarios de buses para encontrar las mejores ofertas.",
+      "qu": "Con Cruz del Sur, comparar y reservar boletos para un bus de <<0>> a <<1>> es muy fácil. Explore una amplia selección de tarifas y horarios de buses para encontrar las mejores ofertas.",
+      "pt": "Con Cruz del Sur, comparar y reservar boletos para un bus de <<0>> a <<1>> es muy fácil. Explore una amplia selección de tarifas y horarios de buses para encontrar las mejores ofertas.",
+      "fr": "Avec Cruz del sur, comparer et réserver des billets de bus entre <<0>> et <<1>> est un jeu d'enfant. Parcourez une vaste sélection de tarifs et d'horaires de bus pour trouver les meilleures offres.",
+      "nl": "Met Cruz del sur is het vergelijken en boeken van tickets voor een bus van <<0>> naar <<1>> een eitje. Blader door een uitgebreide selectie van bustarieven en busschema's om de beste deals te vinden."
+    },
+    "description2": {
+      "en": "Our job is to connect you with the best service from <<0>> to <<1>>.",
+      "es": "Nuestro trabajo es conectarte con el mejor servicio de <<0>> a <<1>>.",
+      "qu": "Nuestro trabajo es conectarte con el mejor servicio de <<0>> a <<1>>.",
+      "pt": "Nuestro trabajo es conectarte con el mejor servicio de <<0>> a <<1>>.",
+      "fr": "Notre travail consiste à vous connecter avec le meilleur service de <<0>> à <<1>>.",
+      "nl": "Het is onze taak om u te verbinden met de beste service van <<0>> tot <<1>>."
+    },
+    "description3": {
+      "en": "We offer a wide range of services to best suit your needs depending on how much your budget is.",
+      "es": "Ofrecemos una amplia gama de servicios que mejor se adapten a sus necesidades dependiendo de su presupuesto.",
+      "qu": "Ofrecemos una amplia gama de servicios que mejor se adapten a sus necesidades dependiendo de su presupuesto.",
+      "pt": "Ofrecemos una amplia gama de servicios que mejor se adapten a sus necesidades dependiendo de su presupuesto.",
+      "fr": "Nous proposons une large gamme de services pour répondre au mieux à vos besoins en fonction de votre budget.",
+      "nl": "We bieden een breed scala aan diensten die het beste bij uw behoeften passen, afhankelijk van uw budget."
+    },
+    "information_bus": {
+      "en": "Information on this bus route",
+      "es": "Información sobre esta ruta de bus",
+      "qu": "Información sobre esta ruta de bus",
+      "pt": "Información sobre esta ruta de bus",
+      "fr": "Informations sur cette ligne de bus",
+      "nl": "Informatie over deze busroute"
+    },
+    "daily_buses": {
+      "en": "Daily buses",
+      "es": "Buses diarios",
+      "qu": "Buses diarios",
+      "pt": "Buses diarios",
+      "fr": "Bus quotidiens",
+      "nl": "Dagelijkse bussen"
+    },
+    "earliest_and_latest_bus": {
+      "en": "Earliest and Latest Bus Departures",
+      "es": "Primeras y últimas salidas de bus",
+      "qu": "Primeras y últimas salidas de bus",
+      "pt": "Primeras y últimas salidas de bus",
+      "fr": "Premiers et derniers départs de bus",
+      "nl": "Vroegste en laatste busvertrektijden"
+    },
+    "minimum_price": {
+      "en": "Minimum price",
+      "es": "Precio mínimo",
+      "qu": "Precio mínimo",
+      "pt": "Precio mínimo",
+      "fr": "Prix minimum",
+      "nl": "Minimum prijs"
+    },
+    "average_ticket_price": {
+      "en": "Average ticket price",
+      "es": "Precio promedio del pasaje",
+      "qu": "Precio promedio del pasaje",
+      "pt": "Precio promedio del pasaje",
+      "fr": "Prix moyen du billet",
+      "nl": "Gemiddelde ticketprijs"
+    },
+    "minimum_trip_duration": {
+      "en": "Minimum trip duration",
+      "es": "Duración mínima del viaje",
+      "qu": "Duración mínima del viaje",
+      "pt": "Duración mínima del viaje",
+      "fr": "Durée minimale du voyage",
+      "nl": "Minimale reisduur"
+    },
+    "average_bus_trip_duration": {
+      "en": "Average bus trip duration",
+      "es": "Duración promedio del viaje",
+      "qu": "Duración promedio del viaje",
+      "pt": "Duración promedio del viaje",
+      "fr": "Durée moyenne des trajets en bus",
+      "nl": "Gemiddelde duur van de busreis"
+    },
+    "frequently_asked_questions": {
+      "en": "Frequently asked questions for your trip <<0>> - <<1>>",
+      "es": "Preguntas frecuentes para tu viaje de <<0>> a <<1>>",
+      "qu": "Preguntas frecuentes para tu viaje de <<0>> a <<1>>",
+      "pt": "Preguntas frecuentes para tu viaje de <<0>> a <<1>>",
+      "fr": "Questions fréquentes à propos de votre trajet <<0>> - <<1>>",
+      "nl": "Veelgestelde vragen voor je reis <<0>> - <<1>>"
+    },
+    "question1": {
+      "en": "How much does a bus ticket from <<0>> to <<1>> cost?",
+      "es": "¿Cuánto cuesta un pasaje en bus de <<0>> a <<1>>?",
+      "qu": "¿Cuánto cuesta un pasaje en bus de <<0>> a <<1>>?",
+      "pt": "¿Cuánto cuesta un pasaje en bus de <<0>> a <<1>>?",
+      "fr": "Quel est le prix d'un billet de bus pour un trajet <<0>>-<<1>>?",
+      "nl": "Hoeveel kost een buskaartje van <<0>> naar <<1>>?"
+    },
+    "response1": {
+      "en": "The average bus ticket price from <<0>> to <<1>> is PEN <<2>>. The best way to find cheap bus tickets from <<0>> to <<1>> is to book your tickets as early as possible. Prices tend to rise as your travel date approaches, so book in advance to secure the best prices!",
+      "es": "En promedio, el pasaje en bus más barato de <<0>> a <<1>> cuesta PEN <<2>>. La mejor manera de encontrar pasajes en bus baratos de <<0>> a <<1>> es comprarlos lo antes posible. Los precios tienden a subir a medida que se acerca la fecha de tu viaje, así que compra tu pasaje con anticipación para obtener el mejor precio.",
+      "qu": "En promedio, el pasaje en bus más barato de <<0>> a <<1>> cuesta PEN <<2>>. La mejor manera de encontrar pasajes en bus baratos de <<0>> a <<1>> es comprarlos lo antes posible. Los precios tienden a subir a medida que se acerca la fecha de tu viaje, así que compra tu pasaje con anticipación para obtener el mejor precio.",
+      "pt": "En promedio, el pasaje en bus más barato de <<0>> a <<1>> cuesta PEN <<2>>. La mejor manera de encontrar pasajes en bus baratos de <<0>> a <<1>> es comprarlos lo antes posible. Los precios tienden a subir a medida que se acerca la fecha de tu viaje, así que compra tu pasaje con anticipación para obtener el mejor precio.",
+      "fr": "Le prix moyen d'un billet de bus de <<0>> à <<1>> est de <<2>> PEN. Le meilleur moyen de trouver des billets de bus pas chers de <<0>> à <<1>> est de réserver vos billets le plus tôt possible. Les prix ont tendance à augmenter à mesure que la date de votre voyage approche, alors réservez à l'avance pour bénéficier des meilleurs prix!",
+      "nl": "De gemiddelde prijs van een buskaartje van <<0>> naar <<1>> is PEN <<2>>. De beste manier om goedkope buskaartjes van <<0>> naar <<1>> te vinden, is door je tickets zo vroeg mogelijk te boeken. Prijzen stijgen meestal naarmate uw reisdatum nadert, dus boek van tevoren om de beste prijzen te krijgen!"
+    },
+    "question2": {
+      "en": "How long is the bus ride from <<0>> to <<1>>?",
+      "es": "¿Cuánto dura el viaje en bus de <<0>> a <<1>>?",
+      "qu": "¿Cuánto dura el viaje en bus de <<0>> a <<1>>?",
+      "pt": "¿Cuánto dura el viaje en bus de <<0>> a <<1>>?",
+      "fr": "Combien de temps dure le trajet <<0>>-<<1>> en bus?",
+      "nl": "Hoe lang is de busrit van <<0>> naar <<1>>?"
+    },
+    "response2": {
+      "en": "The average travel time between <<0>> and <<1>> is around <<2>>, although the fastest bus will take about <<3>>.This is the time it takes to travel the <<4>> km that separates the two cities.",
+      "es": "En promedio, el viaje de <<0>> a <<1>> dura aproximadamente <<2>>, aunque el bus más rápido tardará aproximadamente <<3>>. Este es el tiempo que se tarda en recorrer la distancia de <<4>> km que separa las dos ciudades.",
+      "qu": "En promedio, el viaje de <<0>> a <<1>> dura aproximadamente <<2>>, aunque el bus más rápido tardará aproximadamente <<3>>. Este es el tiempo que se tarda en recorrer la distancia de <<4>> km que separa las dos ciudades.",
+      "pt": "En promedio, el viaje de <<0>> a <<1>> dura aproximadamente <<2>>, aunque el bus más rápido tardará aproximadamente <<3>>. Este es el tiempo que se tarda en recorrer la distancia de <<4>> km que separa las dos ciudades.",
+      "fr": "La durée moyenne d'un trajet entre <<0>> et <<1>> est d'environ <<2>>, mais le bus le plus rapide mettra environ <<3>>. C'est le temps qu'il faut pour parcourir les <<4>> km qui séparent les deux villes.",
+      "nl": "De gemiddelde reistijd tussen <<0>> en <<1>> is ongeveer <<2>>, hoewel de snelste bus er ongeveer <<3>> over doet. Dit is de tijd die nodig is om de <<4>> km af te leggen die de twee steden van elkaar scheidt."
+    },
+    "question3": {
+      "en": "How many daily bus connections are there between <<0>> and <<1>>?",
+      "es": "¿Cuántos viajes en bus diarios hay entre <<0>> y <<1>>?",
+      "qu": "¿Cuántos viajes en bus diarios hay entre <<0>> y <<1>>?",
+      "pt": "¿Cuántos viajes en bus diarios hay entre <<0>> y <<1>>?",
+      "fr": "Combien de liaisons quotidiennes y a-t-il entre <<0>> et <<1>>?",
+      "nl": "Hoeveel dagelijkse busverbindingen zijn er tussen <<0>> en <<1>>?"
+    },
+    "response3": {
+      "en": "The number of buses from <<0>> to <<1>> can differ depending on the day of the week. On average, there are <<2>> on this route. Some buses run direct routes, while others have layovers. Simplify your bus trip from <<0>> to <<1>> by comparing and selecting the bus that fits you travel style and budget on cruz del sur.",
+      "es": "El número de buses que van de <<0>> a <<1>> puede variar dependiendo del día de la semana. En promedio, <<2>> cubren esta ruta. Algunos buses tienen rutas directas, mientras que otros tienen paradas. Simplifica tu viaje en bus de <<0>> a <<1>> comparando y seleccionando el bus que mejor se ajuste a tu estilo de viaje y presupuesto en Cruz del sur",
+      "qu": "El número de buses que van de <<0>> a <<1>> puede variar dependiendo del día de la semana. En promedio, <<2>> cubren esta ruta. Algunos buses tienen rutas directas, mientras que otros tienen paradas. Simplifica tu viaje en bus de <<0>> a <<1>> comparando y seleccionando el bus que mejor se ajuste a tu estilo de viaje y presupuesto en Cruz del sur",
+      "pt": "El número de buses que van de <<0>> a <<1>> puede variar dependiendo del día de la semana. En promedio, <<2>> cubren esta ruta. Algunos buses tienen rutas directas, mientras que otros tienen paradas. Simplifica tu viaje en bus de <<0>> a <<1>> comparando y seleccionando el bus que mejor se ajuste a tu estilo de viaje y presupuesto en Cruz del sur",
+      "fr": "Le nombre de bus circulant de <<0>> à <<1>> diffère en fonction du jour de la semaine. En moyenne, il y en a <<2>> sur cette route. Certains bus effectuent des trajets directs, tandis que d'autres ont des escales. Simplifiez votre voyage en bus de <<0>> à <<1>> en comparant et en sélectionnant le bus qui correspond à votre style de voyage et à votre budget sur cruz del sur.",
+      "nl": "Het aantal bussen van <<0>> naar <<1>> kan per dag van de week verschillen. Gemiddeld zijn er <<2>> op deze route. Sommige bussen rijden directe routes, terwijl andere een tussenstop hebben. Vereenvoudig je busreis van <<0>> naar <<1>> door op cruz del sur de bus te vergelijken en te selecteren die bij je reisstijl en budget past."
+    },
+    "question4": {
+      "en": "What are the departure and arrival stations when taking the bus from <<0>> to <<1>>?",
+      "es": "¿Cuáles son los terminales de salida y llegada cuando se toma el bus de <<0>> a <<1>>?",
+      "qu": "¿Cuáles son los terminales de salida y llegada cuando se toma el bus de <<0>> a <<1>>?",
+      "pt": "¿Cuáles son los terminales de salida y llegada cuando se toma el bus de <<0>> a <<1>>?",
+      "fr": "Quels sont les arrêts de départ et d'arrivée pour un voyage <<0>>-<<1>>?",
+      "nl": "Wat zijn de vertrek- en aankomststations als je de bus neemt van <<0>> naar <<1>>?"
+    },
+    "response4": {
+      "en": "Buses traveling between <<0>> and <<1>> leave from <<2>> and arrive at <<3>>.",
+      "es": "Los buses que viajan de <<0>> a <<1>> salen de <<2>> y llegan a <<3>>",
+      "qu": "Los buses que viajan de <<0>> a <<1>> salen de <<2>> y llegan a <<3>>.",
+      "pt": "Los buses que viajan de <<0>> a <<1>> salen de <<2>> y llegan a <<3>>.",
+      "fr": "Les bus circulant entre <<0>> et <<1>> partent de <<2>> et arrivent à <<3>>.",
+      "nl": "Bussen tussen <<0>> en <<1>> vertrekken vanaf de <<2>> en komen aan bij <<3>>."
+    }
+  },
+  "recommendations_to_pay": {
+    "title": {
+      "en": "Recommendations for paying by credit or debit card",
+      "es": "Recomendaciones para pagar con tarjeta de crédito o débito",
+      "qu": "Recomendaciones para pagar con tarjeta de crédito o débito",
+      "pt": "Recomendaciones para pagar con tarjeta de crédito o débito",
+      "fr": "Recommandations pour le paiement par carte de crédit ou de débit",
+      "nl": "Aanbevelingen voor betalen met creditcard of bankpas"
+    },
+    "statement": {
+      "en": "To make the payment successfully, check the following",
+      "es": "Para realizar el pago de forma exitosa, revisar lo siguiente",
+      "qu": "Para realizar el pago de forma exitosa, revisar lo siguiente",
+      "pt": "Para realizar el pago de forma exitosa, revisar lo siguiente",
+      "fr": "Pour effectuer le paiement avec succès, vérifiez les points suivants",
+      "nl": "Controleer het volgende om de betaling succesvol uit te voeren"
+    },
+    "recommendation1": {
+      "en": "Activate the online shopping option",
+      "es": "Activa la opción de compras por internet",
+      "qu": "Activa la opción de compras por internet",
+      "pt": "Activa la opción de compras por internet",
+      "fr": "Activez l'option d'achat en ligne",
+      "nl": "Activeer de online winkeloptie"
+    },
+    "recommendation2": {
+      "en": "If your card is from Scotiabank, check your daily limit",
+      "qu": "Si su tarjeta es de Scotiabank, verifica su límite diario",
+      "es": "Si su tarjeta es de Scotiabank, verifica su límite diario",
+      "pt": "Si su tarjeta es de Scotiabank, verifica su límite diario",
+      "fr": "Si votre carte est de la Banque Scotia, vérifiez votre limite quotidienne",
+      "nl": "Als uw kaart van Scotiabank is, controleer dan uw dagelijkse limiet"
+    },
+    "recommendation3": {
+      "en": "If your card is from BBVA, use the dynamic CVV that appears in the bank's APP",
+      "es": "Si su tarjeta es de BBVA, usa el CVV dinámico que figura en el APP del banco",
+      "qu": "Si su tarjeta es de BBVA, usa el CVV dinámico que figura en el APP del banco",
+      "pt": "Si su tarjeta es de BBVA, usa el CVV dinámico que figura en el APP del banco",
+      "fr": "Si votre carte provient de BBVA, utilisez le CVV dynamique qui apparaît dans l'APP de la banque",
+      "nl": "Als uw kaart van BBVA is, gebruikt u de dynamische CVV die in de APP van de bank verschijnt"
+    },
+    "recommendation4": {
+      "en": "If you've already tried all of the above and it still doesn't work, call or contact your issuing bank for further assistance",
+      "es": "Si ya intentaste todo lo anterior y aún no funciona, llama o contacta a tu banco emisor para q te brinden mayor ayuda",
+      "qu": "Si ya intentaste todo lo anterior y aún no funciona, llama o contacta a tu banco emisor para q te brinden mayor ayuda",
+      "pt": "Si ya intentaste todo lo anterior y aún no funciona, llama o contacta a tu banco emisor para q te brinden mayor ayuda",
+      "fr": "Si vous avez déjà essayé toutes les solutions ci-dessus et que cela ne fonctionne toujours pas, appelez ou contactez votre banque émettrice pour obtenir de l'aide",
+      "nl": "Als je al het bovenstaande al hebt geprobeerd en het nog steeds niet werkt, bel of neem dan contact op met je uitgevende bank voor verdere hulp"
+    }
+  }
+}

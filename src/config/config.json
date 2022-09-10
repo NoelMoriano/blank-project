@@ -1,0 +1,40 @@
+{
+  "common": {
+    "googleAnalytics": {
+      "trackingId": "UA-144021747-2"
+    },
+    "facebookPixel": {
+      "pixelId": "384024977069631",
+      "catalogId": "725837852201438"
+    }
+  },
+  "development": {
+    "version": "0.01",
+    "apiUrl": "https://us-central1-alliance-bus-dev.cloudfunctions.net/api",
+    "storageUrl": "https://storage.googleapis.com/alliance-bus-dev.appspot.com",
+    "portalUrl": "https://dev.cruzdelsur.com.pe",
+    "authentication": {
+      "google": {
+        "clientId": "457808834772-m0lh07i8qhuf0hiu94rm8s8a7dlm8nk0.apps.googleusercontent.com"
+      },
+      "facebook": {
+        "appId": "893352217753019"
+      }
+    }
+  },
+  "production": {
+    "version": "0.20",
+    "apiUrl": "https://us-central1-alliance-bus-252617.cloudfunctions.net/api",
+    "storageUrl": "https://storage.googleapis.com/alliance-bus-252617.appspot.com",
+    "portalUrl": "https://info.cruzdelsur.com.pe",
+    "authentication": {
+      "google": {
+        "clientId": "165113995658-7ovhd8s4jsbg2ksnb79mhvmc9rppaa9p.apps.googleusercontent.com"
+      },
+      "facebook": {
+        "appId": "415286695182343",
+        "appSecret": "922bd14ee161252e926a93e709aaea46"
+      }
+    }
+  }
+}
